@@ -28,3 +28,7 @@
     
 
 > 意外：找到了 gpcrdb 的接口 https://gpcrdb.org/services/reference/
+
+
+
+另外`requests`模拟请求的代码在 `test/requests_code`里。
