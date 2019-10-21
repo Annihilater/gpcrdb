@@ -1,0 +1,321 @@
+	NK1R	NK1	Tachykinin
+	NK1R	NK1	Tachykinin
+	5HT2A	5-HT2A	5-Hydroxytryptamine
+	5HT2A	5-HT2A	5-Hydroxytryptamine
+	AGTR1	AT1	Angiotensin
+	CNR1	CB1	Cannabinoid
+	CNR2	CB2	Cannabinoid
+	CALCR	CT	Calcitonin
+	GRM5	mGlu5	Metabotropic glutamate
+	GRM5	mGlu5	Metabotropic glutamate
+	NK1R	NK1	Tachykinin
+	NK1R	NK1	Tachykinin
+	NK1R	NK1	Tachykinin
+	ADRB1	β1	Adrenoceptors
+	CCR2	CCR2	Chemokine
+	CCR2	CCR2	Chemokine
+	TA2R	TP	Prostanoid
+	TA2R	TP	Prostanoid
+	CCR5	CCR5	Chemokine
+	CCR5	CCR5	Chemokine
+	NK1R	NK1	Tachykinin
+	PE2R3	EP3	Prostanoid
+	PE2R3	EP3	Prostanoid
+	PE2R4	EP4	Prostanoid
+	PE2R4	EP4	Prostanoid
+	ACM2	M2	Acetylcholine (muscarinic)
+	ACM2	M2	Acetylcholine (muscarinic)
+	ACM2	M2	Acetylcholine (muscarinic)
+	ACM2	M2	Acetylcholine (muscarinic)
+	ACM2	M2	Acetylcholine (muscarinic)
+	EDNRB	ETB	Endothelin
+	EDNRB	ETB	Endothelin
+	PTH1R	PTH1	Parathyroid hormone
+	ADRB2	β2	Adrenoceptors
+	CCR5	CCR5	Chemokine
+	CCR5	CCR5	Chemokine
+	ADRB1	β1	Adrenoceptors
+	ADRB1	β1	Adrenoceptors
+	ADRB1	β1	Adrenoceptors
+	ADRB1	β1	Adrenoceptors
+	ADRB1	β1	Adrenoceptors
+	OPSD	Rhodopsin	Opsins
+	PD2R2	DP2	Prostanoid
+	PD2R2	DP2	Prostanoid
+	CALRL	calcitonin-like	Calcitonin
+	5HT2B	5-HT2B	5-Hydroxytryptamine
+	5HT2B	5-HT2B	5-Hydroxytryptamine
+	5HT2B	5-HT2B	5-Hydroxytryptamine
+	5HT2B	5-HT2B	5-Hydroxytryptamine
+	FZD4	FZD4	Frizzled
+	AGTR2	AT2	Angiotensin
+	5HT1B	5-HT1B	5-Hydroxytryptamine
+	AA1R	A1	Adenosine
+	OPSD	Rhodopsin	Opsins
+	PTAFR	PAF	Platelet-activating factor
+	PTAFR	PAF	Platelet-activating factor
+	OPRM	μ	Opioid
+	OPRM	μ	Opioid
+	Q80KM9	US28	Unclassified
+	Q80KM9	US28	Unclassified
+	C5AR1	C5a1	Complement peptide
+	C5AR1	C5a1	Complement peptide
+	Q98SW5	SMO	Frizzled
+	Q98SW5	SMO	Frizzled
+	AA2AR	A2A	Adenosine
+	FFAR1	FFA1	Free fatty acid
+	NPY1R	Y1	Neuropeptide Y
+	NPY1R	Y1	Neuropeptide Y
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	DRD2	D2	Dopamine
+	GRM5	mGlu5	Metabotropic glutamate
+	GRM5	mGlu5	Metabotropic glutamate
+	AA2AR	A2A	Adenosine
+	AA2AR	A2A	Adenosine
+	GLP1R	GLP-1	Glucagon
+	5HT2C	5-HT2C	5-Hydroxytryptamine
+	5HT2C	5-HT2C	5-Hydroxytryptamine
+	5HT1B	5-HT1B	5-Hydroxytryptamine
+	AA2AR	A2A	Adenosine
+	AA2AR	A2A	Adenosine
+	AA2AR	A2A	Adenosine
+	AA2AR	A2A	Adenosine
+	AA2AR	A2A	Adenosine
+	AA2AR	A2A	Adenosine
+	AA2AR	A2A	Adenosine
+	GLR	glucagon	Glucagon
+	OPRK	κ	Opioid
+	AA2AR	A2A	Adenosine
+	C5AR1	C5a1	Complement peptide
+	Q9WTK1	BLT1	Leukotriene
+	AA2AR	A2A	Adenosine
+	OPSD	Rhodopsin	Opsins
+	OX2R	OX2	Orexin
+	OX2R	OX2	Orexin
+	DRD4	D4	Dopamine
+	DRD4	D4	Dopamine
+	AA2AR	A2A	Adenosine
+	AA2AR	A2A	Adenosine
+	AA2AR	A2A	Adenosine
+	ADRB2	β2	Adrenoceptors
+	EDNRB	ETB	Endothelin
+	EDNRB	ETB	Endothelin
+	Q08BG4	LPA6	Lysophospholipid (LPA)
+	OPSD	Rhodopsin	Opsins
+	5HT2B	5-HT2B	5-Hydroxytryptamine
+	AA1R	A1	Adenosine
+	AA2AR	A2A	Adenosine
+	AA2AR	A2A	Adenosine
+	AA2AR	A2A	Adenosine
+	CNR1	CB1	Cannabinoid
+	CNR1	CB1	Cannabinoid
+	CCR5	CCR5	Chemokine
+	GLP1R	GLP-1	Glucagon
+	FFAR1	FFA1	Free fatty acid
+	FFAR1	FFA1	Free fatty acid
+	AA2AR	A2A	Adenosine
+	APJ	apelin	Apelin
+	AA2AR	A2A	Adenosine
+	G1SGD4	GLP-1	Glucagon
+	GLP1R	GLP-1	Glucagon
+	GLR	glucagon	Glucagon
+	GLR	glucagon	Glucagon
+	SMO	SMO	Frizzled
+	SMO	SMO	Frizzled
+	GLP1R	GLP-1	Glucagon
+	CALCR	CT	Calcitonin
+	PAR2	PAR2	Proteinase-activated
+	PAR2	PAR2	Proteinase-activated
+	PAR2	PAR2	Proteinase-activated
+	AGTR2	AT2	Angiotensin
+	AGTR2	AT2	Angiotensin
+	AGTR2	AT2	Angiotensin
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	AA1R	A1	Adenosine
+	AA2AR	A2A	Adenosine
+	5HT2B	5-HT2B	5-Hydroxytryptamine
+	NTR1	NTS1	Neurotensin
+	CCR2	CCR2	Chemokine
+	CCR9	CCR9	Chemokine
+	CNR1	CB1	Cannabinoid
+	CNR1	CB1	Cannabinoid
+	AA2AR	A2A	Adenosine
+	AA2AR	A2A	Adenosine
+	AA2AR	A2A	Adenosine
+	AA2AR	A2A	Adenosine
+	EDNRB	ETB	Endothelin
+	EDNRB	ETB	Endothelin
+	ADRB2	β2	Adrenoceptors
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	AA2AR	A2A	Adenosine
+	SMO	SMO	Frizzled
+	SMO	SMO	Frizzled
+	ADRB2	β2	Adrenoceptors
+	AA2AR	A2A	Adenosine
+	AA2AR	A2A	Adenosine
+	AA2AR	A2A	Adenosine
+	AA2AR	A2A	Adenosine
+	AA2AR	A2A	Adenosine
+	CRFR1	CRF1	Corticotropin-releasing factor
+	GLR	glucagon	Glucagon
+	OPSD	Rhodopsin	Opsins
+	ACM4	M4	Acetylcholine (muscarinic)
+	ACM1	M1	Acetylcholine (muscarinic)
+	OX1R	OX1	Orexin
+	OX1R	OX1	Orexin
+	ADRB2	β2	Adrenoceptors
+	ADRB2	β2	Adrenoceptors
+	ADRB1	β1	Adrenoceptors
+	OPSD	Rhodopsin	Opsins
+	OPRX	NOP	Opioid
+	OPRX	NOP	Opioid
+	AGTR1	AT1	Angiotensin
+	ADRB1	β1	Adrenoceptors
+	GRM5	mGlu5	Metabotropic glutamate
+	GRM5	mGlu5	Metabotropic glutamate
+	OPRM	μ	Opioid
+	NTR1	NTS1	Neurotensin
+	NTR1	NTS1	Neurotensin
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	LPAR1	LPA1	Lysophospholipid (LPA)
+	LPAR1	LPA1	Lysophospholipid (LPA)
+	LPAR1	LPA1	Lysophospholipid (LPA)
+	AGTR1	AT1	Angiotensin
+	AA2AR	A2A	Adenosine
+	AA2AR	A2A	Adenosine
+	P2RY1	P2Y1	P2Y
+	P2RY1	P2Y1	P2Y
+	US28	US28	Unclassified
+	US28	US28	Unclassified
+	CXCR4	CXCR4	Chemokine
+	OPRD	δ	Opioid
+	OPRD	δ	Opioid
+	OX2R	OX2	Orexin
+	ACM3	M3	Acetylcholine (muscarinic)
+	ACM3	M3	Acetylcholine (muscarinic)
+	ACM3	M3	Acetylcholine (muscarinic)
+	OPSD	Rhodopsin	Opsins
+	ADRB2	β2	Adrenoceptors
+	SMO	SMO	Frizzled
+	SMO	SMO	Frizzled
+	FFAR1	FFA1	Free fatty acid
+	GRM5	mGlu5	Metabotropic glutamate
+	P2Y12	P2Y12	P2Y
+	P2Y12	P2Y12	P2Y
+	ADRB1	β1	Adrenoceptors
+	P2Y12	P2Y12	P2Y
+	GRM1	mGlu1	Metabotropic glutamate
+	SMO	SMO	Frizzled
+	NTR1	NTS1	Neurotensin
+	NTR1	NTS1	Neurotensin
+	NTR1	NTS1	Neurotensin
+	NTR1	NTS1	Neurotensin
+	SMO	SMO	Frizzled
+	OPRD	δ	Opioid
+	5HT2B	5-HT2B	5-Hydroxytryptamine
+	ACM2	M2	Acetylcholine (muscarinic)
+	ACM2	M2	Acetylcholine (muscarinic)
+	OPSD	Rhodopsin	Opsins
+	ADRB2	β2	Adrenoceptors
+	ADRB2	β2	Adrenoceptors
+	ADRB2	β2	Adrenoceptors
+	CCR5	CCR5	Chemokine
+	GLR	glucagon	Glucagon
+	CRFR1	CRF1	Corticotropin-releasing factor
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	SMO	SMO	Frizzled
+	ADRB1	β1	Adrenoceptors
+	ADRB1	β1	Adrenoceptors
+	5HT1B	5-HT1B	5-Hydroxytryptamine
+	5HT1B	5-HT1B	5-Hydroxytryptamine
+	5HT2B	5-HT2B	5-Hydroxytryptamine
+	ADRB1	β1	Adrenoceptors
+	PAR1	PAR1	Proteinase-activated
+	ADRB2	β2	Adrenoceptors
+	NTR1	NTS1	Neurotensin
+	AA2AR	A2A	Adenosine
+	ADRB1	β1	Adrenoceptors
+	ADRB1	β1	Adrenoceptors
+	OPRD	δ	Opioid
+	OPRX	NOP	Opioid
+	AA2AR	A2A	Adenosine
+	AA2AR	A2A	Adenosine
+	OPRK	κ	Opioid
+	OPRM	μ	Opioid
+	ACM3	M3	Acetylcholine (muscarinic)
+	S1PR1	S1P1	Lysophospholipid (S1P)
+	S1PR1	S1P1	Lysophospholipid (S1P)
+	AA2AR	A2A	Adenosine
+	AA2AR	A2A	Adenosine
+	ACM2	M2	Acetylcholine (muscarinic)
+	OPSD	Rhodopsin	Opsins
+	AA2AR	A2A	Adenosine
+	AA2AR	A2A	Adenosine
+	AA2AR	A2A	Adenosine
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	ADRB2	β2	Adrenoceptors
+	HRH1	H1	Histamine
+	ADRB1	β1	Adrenoceptors
+	ADRB1	β1	Adrenoceptors
+	ADRB1	β1	Adrenoceptors
+	ADRB1	β1	Adrenoceptors
+	AA2AR	A2A	Adenosine
+	AA2AR	A2A	Adenosine
+	ADRB1	β1	Adrenoceptors
+	OPSD	Rhodopsin	Opsins
+	AA2AR	A2A	Adenosine
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	ADRB2	β2	Adrenoceptors
+	OPSD	Rhodopsin	Opsins
+	ADRB1	β1	Adrenoceptors
+	ADRB1	β1	Adrenoceptors
+	ADRB1	β1	Adrenoceptors
+	ADRB1	β1	Adrenoceptors
+	ADRB2	β2	Adrenoceptors
+	DRD3	D3	Dopamine
+	CXCR4	CXCR4	Chemokine
+	CXCR4	CXCR4	Chemokine
+	CXCR4	CXCR4	Chemokine
+	CXCR4	CXCR4	Chemokine
+	CXCR4	CXCR4	Chemokine
+	ADRB2	β2	Adrenoceptors
+	ADRB2	β2	Adrenoceptors
+	ADRB2	β2	Adrenoceptors
+	ADRB2	β2	Adrenoceptors
+	AA2AR	A2A	Adenosine
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	ADRB1	β1	Adrenoceptors
+	OPSD	Rhodopsin	Opsins
+	ADRB2	β2	Adrenoceptors
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	ADRB2	β2	Adrenoceptors
+	ADRB2	β2	Adrenoceptors
+	ADRB2	β2	Adrenoceptors
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins
+	OPSD	Rhodopsin	Opsins

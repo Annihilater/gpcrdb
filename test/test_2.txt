@@ -1,0 +1,1500 @@
+A (Rhodopsin)	Human	6J21	-	3.2	A	Inactive	0.35	-	-	Endolysin	-	-		Aprepitant pubchem chembl_ligand
+Antagonist
+small molecule
+N/A	Yes	No	Zhao Q	10.1038/S41467-019-08568-5	2019-03-06	Yes
+A (Rhodopsin)	Human	6J20	6J20_refined	2.7	A	Inactive	0.21	-	-	Endolysin	-	-		Aprepitant pubchem chembl_ligand
+Antagonist
+small molecule
+N/A	No	No	Zhao Q	10.1038/S41467-019-08568-5	2019-03-06	Yes
+A (Rhodopsin)	Human	6A93	6A93_refined	3.0	A	Inactive	-0.48	-	-	Soluble cytochrome b562	-	-		Risperidone pubchem chembl_ligand
+Antagonist
+small molecule
+N/A	No	No	Shimamura T	10.1038/S41594-018-0180-Z	2019-02-13	Yes
+A (Rhodopsin)	Human	6A94	6A94_refined	2.9	A	Inactive	-0.82	-	-	Soluble cytochrome b562	-	-		Zotepine pubchem chembl_ligand
+Antagonist
+small molecule
+N/A	No	No	Shimamura T	10.1038/S41594-018-0180-Z	2019-02-13	Yes
+A (Rhodopsin)	Human	6DO1	6DO1_refined	2.9	A	Active	8.03	-	-	Soluble cytochrome b562	Nanobody Nb.AT110i1	-		Angiotensin-like pep...
+Agonist
+peptide
+N/A	Yes	No	Kruse AC	10.1016/J.CELL.2018.12.006	2019-01-30	Yes
+A (Rhodopsin)	Human	6N4B	6N4B_refined	3.0	R	Active	8.26	Gi	-	scFv16	-	2-arachidonoylglycerol
+Endocannabinoid	Fub-mdmb pubchem
+Agonist
+small molecule
+N/A	Yes	No	Skiniotis G	10.1016/J.CELL.2018.11.040	2019-01-30	Yes
+A (Rhodopsin)	Human	5ZTY	5ZTY_refined	2.8	A	Inactive	-0.50	-	-	Endolysin	-	-		AM10257 pubchem
+Antagonist
+small molecule
+N/A	Yes	No	Liu Z	10.1016/J.CELL.2018.12.011	2019-01-30	Yes
+B1 (Secretin)	Human	6NIY	6NIY_refined	3.3	R	Active	7.80	Gs	-	-	-	-		PEP
+Agonist
+peptide
+N/A	No	No			2019-01-23	Yes
+C (Glutamate)	Human	6N52	6N52_refined	4.0	A	Inactive	4.14	-	-	-	Nanobody 43	L-glutamic acid
+small molecule	N/A	N/A	N/A	N/A	No	No	Kobilka BK	10.1038/S41586-019-0881-4	2019-01-23	Yes
+C (Glutamate)	Human	6N51	6N51_refined	4.0	B	Intermediate	5.53	-	-	-	Nanobody 43	L-glutamic acid
+small molecule	Quisqualic acid pubchem
+Agonist
+small molecule
+N/A	No	No	Kobilka BK	10.1038/S41586-019-0881-4	2019-01-23	Yes
+A (Rhodopsin)	Human	6HLO	6HLO_refined	2.4	A	Inactive	0.68	-	-	GIgA glycogen synthase	-	-		Aprepitant pubchem chembl_ligand
+Antagonist
+small molecule
+N/A	Yes	No	Plückthun A	10.1038/S41467-018-07939-8	2019-01-16	Yes
+A (Rhodopsin)	Human	6HLP	6HLP_refined	2.2	A	Inactive	0.80	-	-	GIgA glycogen synthase	-	-		Netupitant pubchem chembl_ligand
+Antagonist
+small molecule
+N/A	Yes	No	Plückthun A	10.1038/S41467-018-07939-8	2019-01-16	Yes
+A (Rhodopsin)	Human	6HLL	6HLL_refined	3.3	A	Inactive	1.05	-	-	GIgA glycogen synthase	-	-		CP-99,994 pubchem chembl_ligand
+Antagonist
+small molecule
+N/A	Yes	No	Plückthun A	10.1038/S41467-018-07939-8	2019-01-16	Yes
+A (Rhodopsin)	Common turkey	6IBL	6IBL_refined	2.7	A	Active	9.42	-	-	Thioredoxin 1	Carmelid antibody fragment Nb80	-		Formoterol pubchem chembl_ligand
+Agonist
+small molecule
+N/A	Yes	No			2019-01-09	Yes
+A (Rhodopsin)	Human	6GPX	6GPX_refined	2.7	B	Inactive	0.58	-	-	Rubredoxin	-	-		MK-0812 pubchem
+Antagonist
+small molecule
+N/A	No	No	Schnapp G	10.1016/J.STR.2018.10.027	2019-01-02	Yes
+A (Rhodopsin)	Human	6GPS	6GPS_refined	3.3	A	Inactive	0.82	-	-	Rubredoxin	-	-		MK-0812 pubchem
+Antagonist
+small molecule
+N/A	No	No	Schnapp G	10.1016/J.STR.2018.10.027	2019-01-02	Yes
+A (Rhodopsin)	Human	6IIV	6IIV_refined	3.0	A	Inactive	1.00	-	-	Soluble cytochrome b562
+Rubredoxin	-	-		Daltroban pubchem chembl_ligand
+Antagonist
+small molecule
+N/A	No	No	Wu B	10.1038/S41589-018-0170-9	2018-12-19	Yes
+A (Rhodopsin)	Human	6IIU	6IIU_refined	2.5	A	Inactive	1.01	-	-	Soluble cytochrome b562
+Rubredoxin	-	-		Ramatroban pubchem chembl_ligand
+Antagonist
+small molecule
+N/A	No	No	Wu B	10.1038/S41589-018-0170-9	2018-12-19	Yes
+A (Rhodopsin)	Human	6MET	6MET_refined	4.5	B	Inactive	0.70	-	-	T-cell surface glycoprotein CD4	-	CCL11
+CCL14
+CCL16
+CCL2
+CCL3
+CCL4
+CCL5
+CCL7
+CCL8
+peptide	Envelope glycoprotei...
+Antagonist
+peptide
+N/A	No	No	Chen B	10.1038/S41586-018-0804-9	2018-12-12	Yes
+A (Rhodopsin)	Human	6MEO	6MEO_refined	3.9	B	Inactive	0.70	-	-	T-cell surface glycoprotein CD4	-	CCL11
+CCL14
+CCL16
+CCL2
+CCL3
+CCL4
+CCL5
+CCL7
+CCL8
+peptide	Envelope glycoprotei...
+Antagonist
+peptide
+N/A	No	No	Chen B	10.1038/S41586-018-0804-9	2018-12-12	Yes
+A (Rhodopsin)	Human	6E59	6E59_refined	3.4	A	Inactive	-0.46	-	-	GlgA glycogen synthase	-	-		L760735 pubchem
+Antagonist
+small molecule
+N/A	Yes	No	Rosenbaum DM	10.1073/PNAS.1812717115	2018-12-12	Yes
+A (Rhodopsin)	Human	6M9T	6M9T_refined	2.5	A	Intermediate	7.11	-	-	Endolysin chimera	-	-		misoprostol-FA pubchem
+Antagonist
+small molecule
+N/A	Yes	No	Stevens RC	10.1038/S41589-018-0160-Y	2018-12-05	Yes
+A (Rhodopsin)	Human	6AK3	6AK3_refined	2.9	B	Active	7.57	-	-	Soluble cytochrome b562	-	-		Prostaglandin E2 pubchem chembl_ligand
+Agonist
+small molecule
+N/A	Yes	No	Kobayashi T	10.1038/S41589-018-0171-8	2018-12-05	Yes
+A (Rhodopsin)	Human	5YWY	5YWY_refined	3.2	A	Inactive	-0.97	-	-	Fab	-	-		ONO-AE3-208 pubchem
+Antagonist
+small molecule
+N/A	No	No	Kobayashi T	10.1038/S41589-018-0131-3	2018-12-05	Yes
+A (Rhodopsin)	Human	5YHL	5YHL_refined	4.2	A	Inactive	-0.94	-	-	Fab	-	-		ONO-AE3-208-Br
+Antagonist
+small molecule
+N/A	No	No	Kobayashi T	10.1038/S41589-018-0131-3	2018-12-05	Yes
+A (Rhodopsin)	Human	5ZKC	5ZKC_refined	2.3	A	Inactive	0.83	-	-	Apo-cytochrome b562	-	acetylcholine
+small molecule	N-methyl scopolamine pubchem
+Antagonist
+small molecule
+N/A	No	No	Kobayashi T	10.1038/S41589-018-0152-Y	2018-11-21	Yes
+A (Rhodopsin)	Human	5YC8	5YC8_refined	2.5	A	Inactive	1.05	-	-	Redesigned apo-cytochrome b562	-	acetylcholine
+small molecule	N-methyl scopolamine pubchem
+Antagonist
+small molecule
+N/A	No	No	Kobayashi T	10.1038/S41589-018-0152-Y	2018-11-21	Yes
+A (Rhodopsin)	Human	5ZKB	-	3.0	A	Inactive	0.97	-	-	Apo-cytochrome b562	-	acetylcholine
+small molecule	AF-DX 384 pubchem
+Antagonist
+small molecule
+N/A	No	No	Kobayashi T	10.1038/S41589-018-0152-Y	2018-11-21	Yes
+A (Rhodopsin)	Human	5ZK8	5ZK8_refined	3.0	A	Inactive	1.00	-	-	Redesigned apo-cytochrome b562	-	acetylcholine
+small molecule	N-methyl scopolamine pubchem
+Antagonist
+small molecule
+N/A	Yes	No	Kobayashi T	10.1038/S41589-018-0152-Y	2018-11-21	Yes
+A (Rhodopsin)	Human	5ZK3	5ZK3_refined	2.6	A	Inactive	0.58	-	-	Apo-cytochrome b562	-	acetylcholine
+small molecule	Quinuclidinyl benzil... pubchem
+Antagonist
+small molecule
+N/A	No	No	Kobayashi T	10.1038/S41589-018-0152-Y	2018-11-21	Yes
+A (Rhodopsin)	Human	6IGK	6IGK_refined	2.0	A	Intermediate	2.18	-	-	Endolysin	-	-		Endothelin-3 pubchem
+Agonist
+peptide
+N/A	Yes	No	Nureki O	10.1038/S41467-018-07094-0	2018-11-21	Yes
+A (Rhodopsin)	Human	6IGL	6IGL_refined	2.7	A	Inactive	0.16	-	-	Endolysin	-	-		IRL1620 pubchem
+Partial agonist
+peptide
+N/A	Yes	No	Nureki O	10.1038/S41467-018-07094-0	2018-11-21	Yes
+B1 (Secretin)	Human	6FJ3	6FJ3_refined	2.5	A	Inactive	-19.28	-	-	GlgA glycogen synthase	-	-		ePTH
+Agonist
+peptide
+N/A	No	No	Plückthun A	10.1038/S41594-018-0151-4	2018-11-21	Yes
+A (Rhodopsin)	Human	6MXT	6MXT_refined	3.0	A	Active	8.22	-	-	Endolysin	Nanobody 71	(-)-adrenaline
+(-)-noradrenaline
+small molecule	Salmeterol pubchem
+Agonist
+small molecule
+N/A	Yes	No	Kobilka BK	10.1038/S41589-018-0145-X	2018-11-14	Yes
+A (Rhodopsin)	Human	6AKY	6AKY_refined	2.8	A	Inactive	0.40	-	-	Rubredoxin	-	CCL11
+CCL14
+CCL16
+CCL2
+CCL3
+CCL4
+CCL5
+CCL7
+CCL8
+peptide	4,4-difluoro-N-[(1S)...
+Antagonist
+small molecule
+N/A	No	No	Liu H	10.1021/ACS.JMEDCHEM.8B01077	2018-10-24	Yes
+A (Rhodopsin)	Human	6AKX	6AKX_refined	2.8	B	Inactive	0.71	-	-	Rubredoxin	-	CCL11
+CCL14
+CCL16
+CCL2
+CCL3
+CCL4
+CCL5
+CCL7
+CCL8
+peptide	N-[(1S)-3-{(3-exo)-3...
+Antagonist
+small molecule
+N/A	No	No	Liu H	10.1021/ACS.JMEDCHEM.8B01077	2018-10-24	Yes
+A (Rhodopsin)	Common turkey	6H7J	-	2.8	A	Active	9.27	-	-	Thioredoxin 1	Camelid antibody fragment Nb80	-		ISOPRENALINE pubchem
+Agonist
+small molecule
+N/A	Yes	No	Tate CG	10.1101/436212	2018-10-17	Yes
+A (Rhodopsin)	Common turkey	6H7O	6H7O_refined	2.8	A	Active	9.29	-	-	Thioredoxin 1	Camelid antibody fragment Nb6B9	-		4-{[(2S)-3-(tert-but... pubchem
+Agonist
+small molecule
+N/A	Yes	No	Tate CG	10.1101/436212	2018-10-17	Yes
+A (Rhodopsin)	Common turkey	6H7N	6H7N_refined	2.5	A	Active	9.29	-	-	Thioredoxin 1	Camelid antibody fragment Nb6B9	-		Xamoterol pubchem
+Agonist
+small molecule
+N/A	Yes	No	Tate CG	10.1101/436212	2018-10-17	Yes
+A (Rhodopsin)	Common turkey	6H7L	6H7L_refined	2.7	A	Active	9.24	-	-	Thioredoxin 1	Camelid antibody fragment Nb6B9	-		DOBUTAMINE pubchem
+Agonist
+small molecule
+N/A	Yes	No	Tate CG	10.1101/436212	2018-10-17	Yes
+A (Rhodopsin)	Common turkey	6H7M	6H7M_refined	2.8	A	Active	9.30	-	-	Thioredoxin 1	Camelid antibody fragment Nb6B9	-		SALBUTAMOL pubchem
+Agonist
+small molecule
+N/A	Yes	No	Tate CG	10.1101/436212	2018-10-17	Yes
+A (Rhodopsin)	Bovine	6FUF	6FUF_refined	3.1	A	Active	8.28	-	-	-	-	retinal
+small molecule	Retinal pubchem
+Inverse agonist
+small molecule
+N/A	No	No	Schertler GFX	10.1126/SCIADV.AAT7052	2018-10-03	Yes
+A (Rhodopsin)	Human	6D26	6D26_refined	2.8	A	Inactive	-1.40	-	-	Endolysin	-	-		fevipiprant pubchem
+Antagonist
+small molecule
+N/A	Yes	No			2018-10-03	Yes
+A (Rhodopsin)	Human	6D27	6D27_refined	2.7	A	Inactive	-1.73	-	-	Endolysin	-	-		CAY10471 pubchem chembl_ligand
+Antagonist
+small molecule
+N/A	Yes	No			2018-10-03	Yes
+B1 (Secretin)	Human	6E3Y	6E3Y_refined	3.3	R	Active	6.86	Gs	-	RAMP1	Nanobody 35	-		Calcitonin gene-rela... pubchem
+Agonist
+peptide
+N/A	No	No	Sexton PM	10.1038/S41586-018-0535-Y	2018-09-19	Yes
+A (Rhodopsin)	Human	6DRZ	6DRZ_refined	3.1	A	Intermediate	4.19	-	-	Soluble cytochrome b562	-	5-hydroxytryptamine
+small molecule	Methysergide pubchem
+Antagonist
+small molecule
+N/A	Yes	No	Roth BL	10.1038/S41594-018-0116-7	2018-08-29	Yes
+A (Rhodopsin)	Human	6DS0	6DS0_refined	3.2	A	Intermediate	3.21	-	-	Soluble cytochrome b562	-	5-hydroxytryptamine
+small molecule	LY266097 pubchem
+Antagonist
+small molecule
+N/A	Yes	No	Roth BL	10.1038/S41594-018-0116-7	2018-08-29	Yes
+A (Rhodopsin)	Human	6DRY	6DRY_refined	2.9	A	Intermediate	4.34	-	-	Soluble cytochrome b562	-	5-hydroxytryptamine
+small molecule	Methylergonovine pubchem chembl_ligand
+Agonist
+small molecule
+N/A	Yes	No	Roth BL	10.1038/S41594-018-0116-7	2018-08-29	Yes
+A (Rhodopsin)	Human	6DRX	6DRX_refined	3.1	A	Intermediate	2.67	-	-	Soluble cytochrome b562	-	5-hydroxytryptamine
+small molecule	Lisuride pubchem
+Antagonist
+small molecule
+N/A	Yes	No	Roth BL	10.1038/S41594-018-0116-7	2018-08-29	Yes
+F (Frizzled)	Human	6BD4	6BD4_refined	2.4	A	Inactive	-4.31	-	-	Rubredoxin	-	-		N/A	N/A	N/A	N/A	No	No	Xu F	10.1038/S41586-018-0447-X	2018-08-22	Yes
+A (Rhodopsin)	Human	5XJM	-	3.2	A	Active	7.86	-	-	Soluble cytochrome b562
+Fab	-	-		(Sar1,Ile8)-angionte... pubchem chembl_ligand
+Agonist
+peptide-like
+N/A	Yes	No	Iwata S	10.1038/S41594-018-0079-8	2018-07-11	Yes
+A (Rhodopsin)	Human	6G79	-	3.8	S	Active	8.90	Go	-	-	-	-		Donitriptan pubchem
+Agonist
+small molecule
+Cryo-EM	Yes	No	Tate CG	10.1038/S41586-018-0241-9	2018-06-20	Yes
+A (Rhodopsin)	Human	6D9H	6D9H_refined	3.6	R	Active	9.23	Gi2	-	-	-	-		Adenosine pubchem
+Agonist
+small molecule
+Cryo-EM	Yes	No	Christopoulos A	10.1038/S41586-018-0236-6	2018-06-20	Yes
+A (Rhodopsin)	Human	6CMO	6CMO_refined	4.5	R	Active	9.40	Gi	-	Fab	-	retinal
+small molecule	N/A	N/A	N/A	Cryo-EM	No	No	Xu HE	10.1038/S41586-018-0215-Y	2018-06-20	Yes
+A (Rhodopsin)	Human	5ZKQ	-	2.9	B	Intermediate	4.76	-	-	Endolysin	-	-		ABT-491 pubchem chembl_ligand
+Inverse agonist
+small molecule
+N/A	Yes	No	Wu B	10.1038/S41594-018-0068-Y	2018-06-20	Yes
+A (Rhodopsin)	Human	5ZKP	5ZKP_refined	2.8	A	Active	15.31	-	-	Flavodoxin	-	-		Foropafant pubchem
+Antagonist
+small molecule
+N/A	Yes	No	Wu B	10.1038/S41594-018-0068-Y	2018-06-20	Yes
+A (Rhodopsin)	Mouse	6DDF	6DDF_refined	3.5	R	Active	7.85	Gi	-	-	-	β-endorphin
+dynorphin A
+dynorphin B
+endomorphin-1
+[Leu]enkephalin
+[Met]enkephalin
+peptide	DAMGO pubchem chembl_ligand
+Agonist
+peptide-like
+Cryo-EM	Yes	No	Kobilka BK	10.1038/S41586-018-0219-7	2018-06-13	Yes
+A (Rhodopsin)	Mouse	6DDE	6DDE_refined	3.5	R	Active	7.19	Gi	-	-	Antibody	β-endorphin
+dynorphin A
+dynorphin B
+endomorphin-1
+[Leu]enkephalin
+[Met]enkephalin
+peptide	DAMGO pubchem chembl_ligand
+Agonist
+peptide-like
+Cryo-EM	Yes	No	Kobilka BK	10.1038/S41586-018-0219-7	2018-06-13	Yes
+A (Rhodopsin)	strain AD169	5WB2	5WB2_refined	3.5	A	Active	8.86	-	-	-	Nanobody	-		CX3CL1
+Agonist
+peptide
+in meso/LCP	Yes	No	Garcia KC	10.7554/ELIFE.35850	2018-06-13	Yes
+A (Rhodopsin)	strain AD169	5WB1	5WB1_refined	3.5	A	Active	9.12	-	-	-	Nanobody	-		N/A	N/A	N/A	in meso/LCP	Yes	No	Garcia KC	10.7554/ELIFE.35850	2018-06-13	Yes
+A (Rhodopsin)	Human	6C1R	-	2.2	B	Inactive	-1.37	-	-	Soluble cytochrome b562	-	-		PMX53 pubchem chembl_ligand
+Avacopan pubchem
+Antagonist
+Antagonist
+peptide
+small molecule
+in meso/LCP	Yes	No	Zhang C	10.1038/S41594-018-0067-Z	2018-05-30	Yes
+A (Rhodopsin)	Human	6C1Q	-	2.9	B	Inactive	-1.37	-	-	Soluble cytochrome b562	-	-		PMX53 pubchem chembl_ligand
+H94Wrl71FP pubchem
+Antagonist
+Antagonist
+peptide
+small molecule
+in meso/LCP	Yes	No	Zhang C	10.1038/S41594-018-0067-Z	2018-05-30	Yes
+F (Frizzled)	African clawed frog	6D32	6D32_refined	3.8	A	Inactive	-2.20	-	-	Cytochrome b562	-	constitutive
+Constitutive	Cyclopamine pubchem
+Antagonist
+small molecule
+in meso/LCP	No	No	Salic A	10.1016/J.CELL.2018.04.029	2018-05-23	Yes
+F (Frizzled)	African clawed frog	6D35	6D35_refined	3.9	A	Inactive	-2.20	-	-	Cytochrome b562	-	constitutive
+Constitutive	N/A	N/A	N/A	in meso/LCP	No	No	Salic A	10.1016/J.CELL.2018.04.029	2018-05-23	Yes
+A (Rhodopsin)	Human	6GDG	6GDG_refined	4.1	A	Active	10.41	Gs	-	TrxA	Nanobody	-		NECA pubchem
+Agonist
+small molecule
+Cryo-EM	Yes	No	Tate CG	10.7554/ELIFE.35946	2018-05-16	Yes
+A (Rhodopsin)	Human	5KW2	5KW2_refined	2.8	A	Intermediate	4.17	-	-	T4-Lysozyme	-	long chain carboxylic acids
+Lipid	(3~{S})-3-cyclopropy...
+Antagonist
+small molecule
+in meso/LCP	No	No	Hamdouchi C	10.1038/S41467-017-01240-W	2018-05-02	Yes
+A (Rhodopsin)	Human	5ZBQ	5ZBQ_refined	2.7	A	Inactive	-1.31	-	-	T4-Lysozyme	-	-		UR-MK299 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Wu B	10.1038/S41586-018-0046-X	2018-04-25	Yes
+A (Rhodopsin)	Human	5ZBH	5ZBH_refined	3.0	A	Inactive	-0.68	-	-	T4-Lysozyme	-	-		BMS-193885 pubchem
+Antagonist
+small molecule
+N/A	Yes	No	Wu B	10.1038/S41586-018-0046-X	2018-04-25	Yes
+A (Rhodopsin)	Bovine	6FKB	6FKB_refined	3.0	A	Active	7.93	-	-	-	-	retinal
+small molecule	2-(4-chlorophenyl)-1...
+Agonist
+small molecule
+vapour diffusion	No	No	Dawson RJP	10.1073/PNAS.1718084115	2018-04-04	Yes
+A (Rhodopsin)	Bovine	6FK9	6FK9_refined	2.6	A	Active	7.83	-	-	-	-	retinal
+small molecule	(2~{S})-3-methyl-2-p...
+Agonist
+small molecule
+vapour diffusion	No	No	Dawson RJP	10.1073/PNAS.1718084115	2018-04-04	Yes
+A (Rhodopsin)	Bovine	6FKD	6FKD_refined	2.5	A	Active	7.92	-	-	-	-	retinal
+small molecule	5-chloranyl-2-(2-oxi...
+Agonist
+small molecule
+vapour diffusion	No	No	Dawson RJP	10.1073/PNAS.1718084115	2018-04-04	Yes
+A (Rhodopsin)	Bovine	6FK7	6FK7_refined	2.6	A	Active	7.68	-	-	-	-	retinal
+small molecule	(2~{R},3~{R})-2-(4-c...
+Agonist
+small molecule
+vapour diffusion	No	No	Dawson RJP	10.1073/PNAS.1718084115	2018-04-04	Yes
+A (Rhodopsin)	Bovine	6FKC	-	2.5	A	Active	7.84	-	-	-	-	retinal
+small molecule	3-[1'-[(2~{S})-2-(4-...
+Agonist
+small molecule
+vapour diffusion	No	No	Dawson RJP	10.1073/PNAS.1718084115	2018-04-04	Yes
+A (Rhodopsin)	Bovine	6FK8	6FK8_refined	2.9	A	Active	7.94	-	-	-	-	retinal
+small molecule	(2~{R},3~{S})-3-azan...
+Agonist
+small molecule
+vapour diffusion	No	No	Dawson RJP	10.1073/PNAS.1718084115	2018-04-04	Yes
+A (Rhodopsin)	Bovine	6FKA	6FKA_refined	2.7	A	Active	7.99	-	-	-	-	retinal
+small molecule	(2~{S})-2-(3,4-dichl...
+Agonist
+small molecule
+vapour diffusion	No	No	Dawson RJP	10.1073/PNAS.1718084115	2018-04-04	Yes
+A (Rhodopsin)	Bovine	6FK6	-	2.4	A	Active	7.85	-	-	-	-	retinal
+small molecule	(2~{S})-2-(4-chlorop...
+Agonist
+small molecule
+vapour diffusion	No	No			2018-04-04	Yes
+A (Rhodopsin)	Human	6CM4	6CM4_refined	2.9	A	Inactive	-1.80	-	-	Endolysin	-	-		Risperidone pubchem chembl_ligand
+Inverse agonist
+small molecule
+in meso/LCP	Yes	No	Roth BL	10.1038/NATURE25758	2018-03-14	Yes
+C (Glutamate)	Human	6FFI	6FFI_refined	2.2	A	Inactive	4.49	-	-	Endolysin	-	L-glutamic acid
+small molecule	2-[2-(3-methoxypheny... pubchem
+NAM
+small molecule
+in meso/LCP	No	No	Keserű GM	10.1021/ACS.JMEDCHEM.7B01722	2018-03-07	Yes
+C (Glutamate)	Human	6FFH	6FFH_refined	2.7	A	Inactive	4.08	-	-	Endolysin	-	L-glutamic acid
+small molecule	Fenobam pubchem
+NAM
+small molecule
+in meso/LCP	No	No	Keserű GM	10.1021/ACS.JMEDCHEM.7B01722	2018-03-07	Yes
+A (Rhodopsin)	Human	5WF5	-	2.6	A	Intermediate	5.91	-	-	Endolysin	-	-		UK-432,097 pubchem
+Agonist
+small molecule
+in meso/LCP	No	No		10.1016/J.STR.2017.12.013	2018-02-21	Yes
+A (Rhodopsin)	Human	5WF6	5WF6_refined	2.9	A	Intermediate	5.83	-	-	Endolysin	-	-		UK-432,097 pubchem
+Agonist
+small molecule
+in meso/LCP	No	No		10.1016/J.STR.2017.12.013	2018-02-21	Yes
+B1 (Secretin)	Human	6B3J	6B3J_refined	3.3	R	Active	6.78	Gs	-	-	-	-		Exendin-P5
+Agonist
+peptide
+Cryo-EM	No	No	Wootten D	10.1038/NATURE25773	2018-02-21	Yes
+A (Rhodopsin)	Human	6BQH	-	2.7	A	Inactive	0.08	-	-	Soluble cytochrome b562	-	-		Ritanserin pubchem
+Inverse agonist
+small molecule
+in meso/LCP	Yes	No	Liu Z	10.1016/J.CELL.2018.01.001	2018-02-14	Yes
+A (Rhodopsin)	Human	6BQG	-	3.0	A	Active	7.92	-	-	Soluble cytochrome b562	-	-		Ergotamine pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	No	Liu Z	10.1016/J.CELL.2018.01.001	2018-02-14	Yes
+A (Rhodopsin)	Human	5V54	5V54_refined	3.9	A	Intermediate	3.69	-	-	Soluble cytochrome b562	-	-		CHEMBL428892 pubchem chembl_ligand
+Antagonist
+small molecule
+in meso/LCP	Yes	No			2018-02-07	Yes
+A (Rhodopsin)	Human	5OLV	5OLV_refined	2.0	A	Inactive	-0.56	-	-	Soluble cytochrome b562	-	-		CHEMBL1671936 pubchem chembl_ligand
+Antagonist
+small molecule
+in meso/LCP	Yes	Yes	Doré AS	10.1038/S41598-017-18570-W	2018-01-17	Yes
+A (Rhodopsin)	Human	5OM1	5OM1_refined	2.1	A	Inactive	-0.69	-	-	Soluble cytochrome b562	-	-		4-(3-amino-5-phenyl-...
+Antagonist
+small molecule
+in meso/LCP	Yes	Yes	Doré AS	10.1038/S41598-017-18570-W	2018-01-17	Yes
+A (Rhodopsin)	Human	5OLH	5OLH_refined	2.6	A	Inactive	-0.70	-	-	Soluble cytochrome b562	-	-		Vipadenant
+Antagonist
+small molecule
+in meso/LCP	Yes	Yes	Doré AS	10.1038/S41598-017-18570-W	2018-01-17	Yes
+A (Rhodopsin)	Human	5OLZ	5OLZ_refined	1.9	A	Inactive	-0.75	-	-	Soluble cytochrome b562	-	-		4-(3-amino-5-phenyl-...
+Antagonist
+small molecule
+in meso/LCP	Yes	Yes	Doré AS	10.1038/S41598-017-18570-W	2018-01-17	Yes
+A (Rhodopsin)	Human	5OM4	-	2.0	A	Inactive	-0.66	-	-	Soluble cytochrome b562	-	-		4-(3-amino-5-phenyl-...
+Antagonist
+small molecule
+in meso/LCP	Yes	Yes	Doré AS	10.1038/S41598-017-18570-W	2018-01-17	Yes
+A (Rhodopsin)	Human	5OLG	-	1.9	A	Inactive	-0.73	-	-	Soluble cytochrome b562	-	-		ZM241385 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	Yes	Doré AS	10.1038/S41598-017-18570-W	2018-01-17	Yes
+A (Rhodopsin)	Human	5OLO	5OLO_refined	3.1	A	Inactive	-0.69	-	-	Soluble cytochrome b562	-	-		Tozadenant pubchem chembl_ligand
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Doré AS	10.1038/S41598-017-18570-W	2018-01-17	Yes
+B1 (Secretin)	Human	5YQZ	5YQZ_refined	3.0	R	Inactive	-4.97	-	-	T4-Lysozyme	-	-		NNC1702
+Partial agonist
+peptide
+in meso/LCP	No	No	Wu B	10.1038/NATURE25153	2018-01-17	Yes
+A (Rhodopsin)	Human	6B73	6B73_refined	3.1	A	Active	9.71	-	-	Soluble cytochrome b562	Nanobody	dynorphin A
+peptide	MP1104 pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	No	Roth BL	10.1016/J.CELL.2017.12.011	2018-01-17	Yes
+A (Rhodopsin)	Human	6AQF	6AQF_refined	2.5	A	Inactive	-0.44	-	-	Soluble cytochrome b562	-	-		ZM241385 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Wüthrich K	10.1016/J.CELL.2017.12.004	2018-01-10	Yes
+A (Rhodopsin)	Human	5O9H	-	2.7	A	Inactive	-1.46	-	-	-	-	-		NDT 9513727 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Marshall FH	10.1038/NATURE25025	2018-01-10	Yes
+A (Rhodopsin)	Guinea pig	5X33	-	3.7	A	Inactive	-1.53	-	-	Endolysin	-	-		BIIL-260 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Yokoyama S	10.1038/NCHEMBIO.2547	2018-01-03	Yes
+A (Rhodopsin)	Human	5VRA	5VRA_refined	2.4	A	Inactive	-0.39	-	-	Soluble cytochrome b562	-	-		ZM241385 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	Yes	Ernst OP	10.1038/NPROT.2017.135	2017-12-13	Yes
+A (Rhodopsin)	Bovine	5WKT	5WKT_refined	3.2	A	Active	7.98	Gt	-	-	-	retinal
+small molecule	N/A	N/A	N/A	vapour diffusion	No	No	Ernst OP	10.1038/NPROT.2017.135	2017-12-13	Yes
+A (Rhodopsin)	Human	5WS3	5WS3_refined	2.3	A	Inactive	-1.13	-	-	Glycogen synthase	-	-		EMPA pubchem chembl_ligand
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Kobayashi T	10.1016/J.STR.2017.11.005	2017-12-13	Yes
+A (Rhodopsin)	Human	5WQC	-	2.0	A	Inactive	-0.99	-	-	Glycogen synthase	-	-		EMPA pubchem chembl_ligand
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Kobayashi T	10.1016/J.STR.2017.11.005	2017-11-29	Yes
+A (Rhodopsin)	Human	5WIV	5WIV_refined	2.1	A	Inactive	-0.93	-	-	BRIL	-	-		Nemonapride pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	Yes	Roth BL	10.1126/SCIENCE.AAN5468	2017-10-18	Yes
+A (Rhodopsin)	Human	5WIU	5WIU_refined	2.0	A	Inactive	-0.97	-	-	-	-	-		Nemonapride pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Roth BL	10.1126/SCIENCE.AAN5468	2017-10-18	Yes
+A (Rhodopsin)	Human	5NM2	5NM2_refined	2.0	A	Inactive	-0.83	-	-	BRIL	-	-		ZM241385 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	Yes	Standfuss J	10.1038/S41467-017-00630-4	2017-09-27	Yes
+A (Rhodopsin)	Human	5NM4	5NM4_refined	1.7	A	Inactive	-0.80	-	-	Soluble cytochrome b562	-	-		ZM 241385 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Standfuss J	10.1038/S41467-017-00630-4	2017-09-27	Yes
+A (Rhodopsin)	Human	5NLX	5NLX_refined	2.1	A	Inactive	-0.71	-	-	Soluble cytochrome b562	-	-		ZM 241385 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Standfuss J	10.1038/S41467-017-00630-4	2017-09-27	Yes
+A (Rhodopsin)	Human	5X7D	5X7D_refined	2.7	A	Inactive	-1.08	-	-	T4-Lysozyme	-	(-)-adrenaline
+(-)-noradrenaline
+small molecule	Carazolol pubchem
+4-carbamoyl-N-[(2R)-... pubchem
+Antagonist
+Antagonist
+small molecule
+small molecule
+in meso/LCP	Yes	No	Kobilka BK	10.1038/NATURE23652	2017-08-16	Yes
+A (Rhodopsin)	Human	5XPR	5XPR_refined	3.6	A	Inactive	0.09	-	-	-	-	-		N/A	N/A	N/A	in meso/LCP	Yes	No	Nureki O	10.1038/NSMB.3450	2017-08-16	Yes
+A (Rhodopsin)	Human	5X93	5X93_refined	2.2	A	Inactive	-0.68	-	-	Endolysin	-	-		K-8794 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Nureki O	10.1038/NSMB.3450	2017-08-16	Yes
+A (Rhodopsin)	Zebrafish	5XSZ	5XSZ_refined	3.2	A	Active	9.96	-	-	Endolysin	-	-		N/A	N/A	N/A	in meso/LCP	Yes	No	Nureki O	10.1038/NATURE23448	2017-08-16	Yes
+A (Rhodopsin)	Human	5W0P	5W0P_refined	3.0	D	Active	8.63	-	S-arrestin	Endolysin	-	retinal
+small molecule	N/A	N/A	N/A	in meso/LCP	No	No	Xu HE	10.1016/J.CELL.2017.07.002	2017-08-09	Yes
+A (Rhodopsin)	Human	5TUD	5TUD_refined	3.0	D	Active	8.66	-	-	BRIL	Antibody	5-hydroxytryptamine
+small molecule	Ergotamine pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	No	Cherezov V	10.1073/PNAS.1700891114	2017-07-26	Yes
+A (Rhodopsin)	Human	5N2S	5N2S_refined	3.3	A	Inactive	-0.47	-	-	-	-	-		PSB36 pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	No	Cooke RM	10.1016/J.STR.2017.06.012	2017-07-26	Yes
+A (Rhodopsin)	Human	5N2R	5N2R_refined	2.8	A	Inactive	-0.73	-	-	BRIL	-	-		PSB36 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	Yes	Cooke RM	10.1016/J.STR.2017.06.012	2017-07-26	Yes
+A (Rhodopsin)	Human	5MZJ	5MZJ_refined	2.0	A	Inactive	-0.54	-	-	-	-	-		Theophylline pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	Yes	Cooke RM	10.1016/J.STR.2017.06.012	2017-07-26	Yes
+A (Rhodopsin)	Human	5MZP	5MZP_refined	2.1	A	Inactive	-0.75	-	-	-	-	-		Caffeine pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	Yes	Cooke RM	10.1016/J.STR.2017.06.012	2017-07-26	Yes
+A (Rhodopsin)	Human	5XR8	5XR8_refined	3.0	A	Active	7.90	-	-	Flavodoxin	-	2-arachidonoylglycerol
+Endocannabinoid	8D0
+Agonist
+small molecule
+in meso/LCP	Yes	No	Liu Z	10.1038/NATURE23272	2017-07-12	Yes
+A (Rhodopsin)	Human	5XRA	5XRA_refined	2.8	A	Active	7.95	-	-	Flavodoxin	-	2-arachidonoylglycerol
+Endocannabinoid	CHEMBL1683648 pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	No	Liu Z	10.1038/NATURE23272	2017-07-12	Yes
+A (Rhodopsin)	Human	5UIW	5UIW_refined	2.2	A	Inactive	1.02	-	-	Rubredoxin	-	CCL11
+CCL14
+CCL16
+CCL2
+CCL3
+CCL4
+CCL5
+CCL7
+CCL8
+peptide	5P7-CCL5
+Antagonist
+peptide
+in meso/LCP	No	No	Handel TM	10.1016/J.IMMUNI.2017.05.002	2017-06-28	Yes
+B1 (Secretin)	Human	5NX2	5NX2_refined	3.7	A	Intermediate	4.86	-	-	-	-	-		truncated protein ag...
+Agonist
+peptide
+vapour diffusion	No	No	Marshall FH	10.1038/NATURE22800	2017-06-14	Yes
+A (Rhodopsin)	Human	5TZY	5TZY_refined	3.2	A	Intermediate	3.21	-	-	Endolysin	-	long chain carboxylic acids
+Lipid	(2s,3r)-3-Cyclopropy... pubchem
+UNII-11612L5SPI pubchem
+Agonist
+Agonist
+small molecule
+small molecule
+in meso/LCP	No	No	Soisson SM	10.1038/NSMB.3417	2017-06-07	Yes
+A (Rhodopsin)	Human	5TZR	5TZR_refined	2.2	A	Intermediate	3.69	-	-	Endolysin	-	long chain carboxylic acids
+Lipid	UNII-11612L5SPI pubchem
+Agonist
+small molecule
+in meso/LCP	No	No	Soisson SM	10.1038/NSMB.3417	2017-06-07	Yes
+A (Rhodopsin)	Human	5JTB	5JTB_refined	2.8	A	Inactive	-0.46	-	-	BRIL	-	-		ZM241385 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Popov A	10.1126/SCIADV.1602952	2017-05-31	Yes
+A (Rhodopsin)	Human	5VBL	5VBL_refined	2.6	B	Inactive	-0.37	-	-	Rubredoxin	-	apelin-13
+apelin receptor early endogenous ligand
+peptide	AMG3054
+Agonist
+peptide
+in meso/LCP	Yes	No	Xu F	10.1016/J.STR.2017.04.008	2017-05-31	Yes
+A (Rhodopsin)	Human	5UVI	5UVI_refined	3.2	A	Inactive	-0.58	-	-	BRIL	-	-		ZM241385 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Liu W	10.1107/S205225251700570X	2017-05-24	Yes
+B1 (Secretin)	Rabbit	5VAI	5VAI_refined	4.1	R	Active	6.89	Gs	-	-	-	glucagon-like peptide 1
+peptide	GLP-1 pubchem
+Agonist
+peptide
+Cryo-EM	No	No	Skiniotis G	10.1038/NATURE22394	2017-05-24	Yes
+B1 (Secretin)	Human	5VEW	-	2.7	A	Inactive	-5.10	-	-	Endolysin	-	-		97Y pubchem
+Antagonist
+small molecule
+in meso/LCP	No	No	Stevens RC	10.1038/NATURE22378	2017-05-24	Yes
+B1 (Secretin)	Human	5XF1	5XF1_refined	3.2	B	Inactive	-4.75	-	-	T4-Lysozyme	Antibody	-		4-{[(4-Cyclohexylphe... pubchem
+Antagonist
+small molecule
+in meso/LCP	No	No	Wu B	10.1038/NATURE22363	2017-05-24	Yes
+B1 (Secretin)	Human	5XEZ	5XEZ_refined	3.0	B	Inactive	-4.53	-	-	T4-Lysozyme	Antibody	-		4-{[(4-Cyclohexylphe... pubchem
+Antagonist
+small molecule
+in meso/LCP	No	No	Wu B	10.1038/NATURE22363	2017-05-24	Yes
+F (Frizzled)	Human	5V57	5V57_refined	3.0	A	Inactive	-1.67	-	-	Flavodoxin	-	constitutive
+Constitutive	N-methyl-N-[1-[4-(2-... pubchem
+Antagonist
+small molecule
+in meso/LCP	No	No	Xu F	10.1038/NCOMMS15383	2017-05-24	Yes
+F (Frizzled)	Human	5V56	5V56_refined	2.9	B	Inactive	-1.89	-	-	Flavodoxin	-	constitutive
+Constitutive	N-methyl-N-[1-[4-(2-... pubchem
+Antagonist
+small molecule
+in meso/LCP	No	No	Xu F	10.1038/NCOMMS15383	2017-05-24	Yes
+B1 (Secretin)	Human	5VEX	5VEX_refined	3.0	B	Inactive	-5.05	-	-	Endolysin	-	-		4-{[(4-Cyclohexylphe... pubchem
+Antagonist
+small molecule
+in meso/LCP	No	No	Stevens RC	10.1038/NATURE22378	2017-05-17	Yes
+B1 (Secretin)	Human	5UZ7	5UZ7_refined	4.1	R	Active	7.80	Gs	-	-	-	-		N/A	N/A	N/A	Cryo-EM	No	No	Sexton PM	10.1038/NATURE22327	2017-05-03	Yes
+A (Rhodopsin)	Human	5NDZ	5NDZ_refined	3.6	A	Intermediate	6.87	-	-	T4-Lysozyme
+BRIL	-	-		AZ3451 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	Yes	Dekker N	10.1038/NATURE22309	2017-05-03	Yes
+A (Rhodopsin)	Human	5NDD	5NDD_refined	2.8	A	Intermediate	7.07	-	-	T4-Lysozyme
+BRIL	-	-		GTPL9585 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	Yes	Dekker N	10.1038/NATURE22309	2017-05-03	Yes
+A (Rhodopsin)	Human	5NJ6	-	4.0	A	Intermediate	7.10	-	-	BRIL
+Fab3949	-	-		N/A	N/A	N/A	in meso/LCP	Yes	No	Dekker N	10.1038/NATURE22309	2017-05-03	Yes
+A (Rhodopsin)	Human	5UNG	5UNG_refined	2.8	B	Active	8.46	-	-	BRIL	-	-		CHEMBL289472 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Cherezov V	10.1038/NATURE22035	2017-04-05	Yes
+A (Rhodopsin)	Human	5UNH	5UNH_refined	2.9	B	Active	9.17	-	-	BRIL	-	-		8EM pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Cherezov V	10.1038/NATURE22035	2017-04-05	Yes
+A (Rhodopsin)	Human	5UNF	5UNF_refined	2.8	A	Active	8.94	-	-	BRIL	-	-		CHEMBL289472 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Cherezov V	10.1038/NATURE22035	2017-04-05	Yes
+A (Rhodopsin)	Bovine	5TE5	-	4.0	A	Inactive	-0.47	-	-	-	-	retinal
+small molecule	10,20-Methanoretinal pubchem
+Agonist
+small molecule
+vapour diffusion	No	No	Palczewski K	10.1073/PNAS.1617446114	2017-03-15	Yes
+A (Rhodopsin)	Bovine	5TE3	5TE3_refined	2.7	A	Active	7.98	-	-	-	-	retinal
+small molecule	N/A	N/A	N/A	vapour diffusion	No	No	Palczewski K	10.1073/PNAS.1617446114	2017-03-15	Yes
+A (Rhodopsin)	Human	5UEN	5UEN_refined	3.2	B	Inactive	-1.06	-	-	BRIL	-	-		CHEMBL144360 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Christopoulos A	10.1016/J.CELL.2017.01.042	2017-03-01	Yes
+A (Rhodopsin)	Human	5UIG	5UIG_refined	3.5	A	Inactive	1.11	-	-	BRIL	-	-		J3.651.884G pubchem
+Antagonist
+small molecule
+vapour diffusion	Yes	No	Kobilka BK	10.1073/PNAS.1621423114	2017-02-08	Yes
+A (Rhodopsin)	Human	5TVN	5TVN_refined	2.9	A	Intermediate	4.46	-	-	BRIL	-	5-hydroxytryptamine
+small molecule	Lysergide pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	No	Roth BL	10.1016/J.CELL.2016.12.033	2017-02-01	Yes
+A (Rhodopsin)	Rat	5T04	5T04_refined	3.3	A	Active	8.26	-	-	T4-Lysozyme	-	neurotensin
+peptide	CHEMBL342252 pubchem
+Agonist
+peptide
+in meso/LCP	Yes	No	Grisshammer R	10.1038/SREP38564	2016-12-21	Yes
+A (Rhodopsin)	Human	5T1A	-	2.8	A	Inactive	1.66	-	-	T4-Lysozyme	-	-		CCR2-RA-[R] pubchem
+CHEMBL3577945 pubchem
+Antagonist
+Antagonist
+small molecule
+small molecule
+in meso/LCP	No	No	Handel TM	10.1038/NATURE20605	2016-12-14	Yes
+A (Rhodopsin)	Human	5LWE	-	2.8	B	Inactive	0.09	-	-	-	-	-		Vercirnon pubchem
+Antagonist
+small molecule
+in meso/LCP	No	No	Marshall FH	10.1038/NATURE20606	2016-12-07	Yes
+A (Rhodopsin)	Human	5U09	5U09_refined	2.6	A	Inactive	-2.87	-	-	Glycogen synthase	-	2-arachidonoylglycerol
+Endocannabinoid	Taranabant pubchem
+Inverse agonist
+small molecule
+in meso/LCP	Yes	No	Rosenbaum DM	10.1038/NATURE20613	2016-12-07	Yes
+A (Rhodopsin)	Human	5TGZ	5TGZ_refined	2.8	A	Inactive	-0.85	-	-	Flavodoxin	-	2-arachidonoylglycerol
+Endocannabinoid	SCHEMBL662960 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Liu Z	10.1016/J.CELL.2016.10.004	2016-11-02	Yes
+A (Rhodopsin)	Human	5K2B	-	2.5	A	Inactive	-0.63	-	-	BRIL	-	-		ZM241385 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	Yes	Cherezov V	10.1126/SCIADV.1600292	2016-09-21	Yes
+A (Rhodopsin)	Human	5K2A	5K2A_refined	2.5	A	Inactive	-0.71	-	-	BRIL	-	-		ZM241385 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	Yes	Cherezov V	10.1126/SCIADV.1600292	2016-09-21	Yes
+A (Rhodopsin)	Human	5K2C	5K2C_refined	1.9	A	Inactive	-0.67	-	-	BRIL	-	-		ZM241385 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	Yes	Cherezov V	10.1126/SCIADV.1600292	2016-09-21	Yes
+A (Rhodopsin)	Human	5K2D	5K2D_refined	1.9	A	Inactive	-0.71	-	-	BRIL	-	-		ZM241385 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	Yes	Cherezov V	10.1126/SCIADV.1600292	2016-09-21	Yes
+A (Rhodopsin)	Human	5GLH	5GLH_refined	2.8	A	Inactive	-0.17	-	-	-	-	-		Et 1 pubchem
+Agonist
+peptide
+in meso/LCP	Yes	No	Doi T	10.1038/NATURE19319	2016-09-07	Yes
+A (Rhodopsin)	Human	5GLI	5GLI_refined	2.5	A	Inactive	-0.38	-	-	Endolysin	-	-		N/A	N/A	N/A	in meso/LCP	Yes	No	Doi T	10.1038/NATURE19319	2016-09-07	Yes
+A (Rhodopsin)	Human	5D6L	5D6L_refined	3.2	A	Inactive	-0.99	-	-	T4-Lysozyme	-	(-)-adrenaline
+(-)-noradrenaline
+small molecule	Carazolol pubchem
+Inverse agonist
+small molecule
+in meso/LCP	Yes	No	Caffrey M	10.1038/NPROT.2017.057	2016-08-17	Yes
+A (Rhodopsin)	Bovine	5EN0	5EN0_refined	2.8	A	Active	8.40	Gt-alpha3	-	-	-	retinal
+small molecule	retinal gtoplig
+Inverse agonist
+small molecule
+vapour diffusion	No	No	Standfuss J	10.15252/EMBR.201642671	2016-08-10	Yes
+A (Rhodopsin)	Bovine	5DYS	5DYS_refined	2.3	A	Active	7.70	-	-	-	-	retinal
+small molecule	retinal gtoplig
+Inverse agonist
+small molecule
+vapour diffusion	No	No	Standfuss J	10.15252/EMBR.201642671	2016-08-10	Yes
+A (Rhodopsin)	Human	5G53	5G53_refined	3.4	A	Active	9.79	Engineered G protein	-	-	-	-		NECA pubchem
+Agonist
+small molecule
+vapour diffusion	Yes	No	Tate CG	10.1038/NATURE18966	2016-08-03	Yes
+F (Frizzled)	Human	5L7D	5L7D_refined	3.2	B	Inactive	-1.98	-	-	BRIL	-	constitutive
+Constitutive	N/A	N/A	N/A	in meso/LCP	No	No	Siebold C	10.1038/NATURE18934	2016-07-20	Yes
+F (Frizzled)	Human	5L7I	5L7I_refined	3.3	B	Inactive	-2.33	-	-	BRIL	-	constitutive
+Constitutive	Vismodegib pubchem
+Antagonist
+small molecule
+in meso/LCP	No	No	Siebold C	10.1038/NATURE18934	2016-07-20	Yes
+A (Rhodopsin)	Human	5JQH	5JQH_refined	3.2	A	Inactive	-1.07	-	-	T4-Lysozyme	Nanobody	(-)-adrenaline
+(-)-noradrenaline
+small molecule	Carazolol pubchem
+Inverse agonist
+small molecule
+in meso/LCP	Yes	No	Lefkowitz RJ	10.1038/NATURE18636	2016-07-13	Yes
+A (Rhodopsin)	Human	5IU4	5IU4_refined	1.7	A	Inactive	-0.76	-	-	BRIL	-	-		ZM241385 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	Yes	Cooke RM	10.1021/ACS.JMEDCHEM.6B00653	2016-06-29	Yes
+A (Rhodopsin)	Human	5IU7	5IU7_refined	1.9	A	Inactive	-0.68	-	-	BRIL	-	-		2-(Furan-2-Yl)-N~5~-... pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	Yes	Cooke RM	10.1021/ACS.JMEDCHEM.6B00653	2016-06-29	Yes
+A (Rhodopsin)	Human	5IUB	5IUB_refined	2.1	A	Inactive	-0.87	-	-	BRIL	-	-		CHEMBL184061 pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	Yes	Cooke RM	10.1021/ACS.JMEDCHEM.6B00653	2016-06-29	Yes
+A (Rhodopsin)	Human	5IUA	-	2.2	A	Inactive	-0.68	-	-	BRIL	-	-		2-(Furan-2-Yl)-N~5~-... pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	Yes	Cooke RM	10.1021/ACS.JMEDCHEM.6B00653	2016-06-29	Yes
+A (Rhodopsin)	Human	5IU8	-	2.0	A	Inactive	-0.82	-	-	BRIL	-	-		CHEMBL3934661 pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	Yes			2016-06-29	Yes
+B1 (Secretin)	Human	4Z9G	4Z9G_refined	3.2	A	Inactive	-0.98	-	-	T4-Lysozyme	-	corticotrophin-releasing hormone
+peptide	CP-376395 pubchem
+Antagonist
+small molecule
+in meso/LCP	No	No	Marshall FH	10.2174/1874467210666170110114727	2016-06-29	Yes
+B1 (Secretin)	Human	5EE7	5EE7_refined	2.5	A	Inactive	-4.80	-	-	BRIL	-	-		3,6,9,12,15,18,21,24... pubchem
+Antagonist
+small molecule
+in meso/LCP	No	No	Marshall FH	10.1038/NATURE17414	2016-04-20	Yes
+A (Rhodopsin)	Human	5DGY	5DGY_refined	7.7	A	Active	8.61	-	S-arrestin	T4-Lysozyme	-	retinal
+small molecule	N/A	N/A	N/A	in meso/LCP	No	No	Xu HE	10.1038/SDATA.2016.21	2016-03-23	Yes
+A (Rhodopsin)	Human	5DSG	5DSG_refined	2.6	B	Inactive	0.28	-	-	T4-Lysozyme	-	acetylcholine
+small molecule	Tiotropium pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Christopoulos A	10.1038/NATURE17188	2016-03-16	Yes
+A (Rhodopsin)	Human	5CXV	5CXV_refined	2.7	A	Inactive	0.64	-	-	Endolysin	-	acetylcholine
+small molecule	CHEMBL258622 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Christopoulos A	10.1038/NATURE17188	2016-03-09	Yes
+A (Rhodopsin)	Human	4ZJC	4ZJC_refined	2.8	A	Inactive	-0.54	-	-	-	-	noradrenaline
+small molecule	SB-674042 pubchem
+Antagonist
+small molecule
+in meso/LCP	No	No	Rosenbaum DM	10.1038/NSMB.3183	2016-03-09	Yes
+A (Rhodopsin)	Human	4ZJ8	4ZJ8_refined	2.8	A	Inactive	-0.47	-	-	-	-	noradrenaline
+small molecule	Suvorexant pubchem
+Antagonist
+small molecule
+in meso/LCP	No	No	Rosenbaum DM	10.1038/NSMB.3183	2016-03-09	Yes
+A (Rhodopsin)	Human	5D5A	-	2.5	A	Inactive	-1.14	-	-	T4-Lysozyme	-	(-)-adrenaline
+(-)-noradrenaline
+small molecule	Carazolol pubchem
+Inverse agonist
+small molecule
+in meso/LCP	Yes	No	Caffrey M	10.1107/S2059798315021683	2016-01-13	No
+A (Rhodopsin)	Human	5D5B	-	3.8	A	Inactive	-1.06	-	-	T4-Lysozyme	-	(-)-adrenaline
+(-)-noradrenaline
+small molecule	Carazolol pubchem
+Inverse agonist
+small molecule
+in meso/LCP	Yes	No	Caffrey M	10.1107/S2059798315021683	2016-01-13	No
+A (Rhodopsin)	Common turkey	5F8U	5F8U_refined	3.4	A	Inactive	-0.51	-	-	-	-	-		(S)-Cyanopindolol pubchem
+Antagonist
+small molecule
+vapour diffusion	Yes	No	Tate CG	10.1038/NSMB.3130	2015-12-23	Yes
+A (Rhodopsin)	Bovine	4X1H	-	2.3	A	Active	8.24	Gt	-	-	-	retinal
+small molecule	69984-73-2 pubchem
+Inverse agonist
+N/A
+vapour diffusion	No	No	Lodowski DT	10.1016/J.STR.2015.09.015	2015-11-04	No
+A (Rhodopsin)	Human	5DHH	5DHH_refined	3.0	A	Inactive	-1.11	-	-	BRIL	-	nociceptin/orphanin FQ
+peptide	N/A	N/A	N/A	in meso/LCP	Yes	No	Stevens RC	10.1016/J.STR.2015.07.024	2015-10-21	Yes
+A (Rhodopsin)	Human	5DHG	5DHG_refined	3.0	A	Inactive	-1.28	-	-	BRIL	-	nociceptin/orphanin FQ
+peptide	N/A	N/A	N/A	in meso/LCP	Yes	No	Stevens RC	10.1016/J.STR.2015.07.024	2015-10-21	Yes
+A (Rhodopsin)	Human	4ZUD	-	2.8	A	Inactive	-0.93	-	-	BRIL	-	-		OLM
+Inverse agonist
+small molecule
+in meso/LCP	Yes	No	Stevens RC	10.1074/JBC.M115.689000	2015-10-07	Yes
+A (Rhodopsin)	Common turkey	5A8E	5A8E_refined	2.4	A	Inactive	-2.23	-	-	-	-	-		7-methylcyanopindolo...
+Inverse agonist
+small molecule
+in meso/LCP	Yes	Yes	Tate CG	10.1124/MOL.115.101030	2015-09-30	Yes
+C (Glutamate)	Human	5CGD	5CGD_refined	2.6	A	Inactive	4.13	-	-	T4-Lysozyme	-	L-glutamic acid
+small molecule	CHEMBL3603923 pubchem
+NAM
+small molecule
+in meso/LCP	No	No	Congreve M	10.1021/ACS.JMEDCHEM.5B00892	2015-08-12	Yes
+C (Glutamate)	Human	5CGC	5CGC_refined	3.1	A	Inactive	4.25	-	-	T4-Lysozyme	-	L-glutamic acid
+small molecule	CHEMBL3603915 pubchem
+NAM
+small molecule
+in meso/LCP	No	No	Congreve M	10.1021/ACS.JMEDCHEM.5B00892	2015-08-12	Yes
+A (Rhodopsin)	Mouse	5C1M	5C1M_refined	2.1	A	Active	10.99	-	-	-	Antibody	β-endorphin
+dynorphin A
+dynorphin B
+endomorphin-1
+[Leu]enkephalin
+[Met]enkephalin
+peptide	BU72 pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	No	Kobilka BK	10.1038/NATURE14886	2015-08-05	Yes
+A (Rhodopsin)	Rat	4XEE	4XEE_refined	2.9	A	Intermediate	6.49	-	-	T4-Lysozyme	-	neurotensin
+peptide	CHEMBL342252 pubchem
+Agonist
+peptide
+in meso/LCP	Yes	No	Grisshammer R	10.1038/NCOMMS8895	2015-07-29	Yes
+A (Rhodopsin)	Rat	4XES	4XES_refined	2.6	A	Intermediate	6.03	-	-	T4-Lysozyme	-	neurotensin
+peptide	CHEMBL342252 pubchem
+Agonist
+peptide
+in meso/LCP	Yes	No	Grisshammer R	10.1038/NCOMMS8895	2015-07-29	Yes
+A (Rhodopsin)	Human	4ZWJ	4ZWJ_refined	3.3	A	Active	8.61	-	S-arrestin	T4-Lysozyme	-	retinal
+small molecule	N/A	N/A	N/A	in meso/LCP	No	No	Xu HE	10.1038/NATURE14656	2015-07-29	Yes
+A (Rhodopsin)	Japanese flying squid	4WW3	-	2.8	A, B	Inactive	0.10	-	-	-	-	retinal
+small molecule	retinal gtoplig
+Inverse agonist
+small molecule
+vapour diffusion	Yes	No	Kouyama T	10.1371/JOURNAL.PONE.0126970	2015-06-17	No
+A (Rhodopsin)	Human	4Z34	4Z34_refined	3.0	A	Inactive	-1.30	-	-	BRIL	-	LPA
+Lipid	ONO-9780307 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Hanson MA	10.1016/J.CELL.2015.06.002	2015-06-03	Yes
+A (Rhodopsin)	Human	4Z36	4Z36_refined	2.9	A	Inactive	-1.22	-	-	BRIL	-	LPA
+Lipid	ONO-3080573 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Hanson MA	10.1016/J.CELL.2015.06.002	2015-06-03	Yes
+A (Rhodopsin)	Human	4Z35	4Z35_refined	2.9	A	Inactive	-1.30	-	-	BRIL	-	LPA
+Lipid	ONO-9910539 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Hanson MA	10.1016/J.CELL.2015.06.002	2015-06-03	Yes
+A (Rhodopsin)	Human	4YAY	-	2.9	A	Inactive	-1.10	-	-	BRIL	-	-		ZD7155 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Cherezov V	10.1016/J.CELL.2015.04.011	2015-04-22	Yes
+A (Rhodopsin)	Human	4UG2	-	2.6	A,B	Intermediate	5.86	-	-	-	-	-		Cgs 21680 pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	No	Tate CG	10.1124/MOL.114.097360	2015-04-08	No
+A (Rhodopsin)	Human	4UHR	4UHR_refined	2.6	A	Intermediate	6.28	-	-	-	-	-		Cgs 21680 pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	No	Tate CG	10.1124/MOL.114.097360	2015-04-08	Yes
+A (Rhodopsin)	Human	4XNW	4XNW_refined	2.7	A	Intermediate	5.20	-	-	Rubredoxin	-	ADP
+small molecule	MRS2500 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Wu B	10.1038/NATURE14287	2015-04-01	Yes
+A (Rhodopsin)	Human	4XNV	4XNV_refined	2.2	A	Intermediate	5.58	-	-	Rubredoxin	-	ADP
+small molecule	BPTU pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Wu B	10.1038/NATURE14287	2015-04-01	Yes
+A (Rhodopsin)	strain AD169	4XT3	4XT3_refined	3.8	A	Active	8.85	-	-	-	-	CX3CL1
+peptide	Fractalkine
+Agonist
+peptide
+in meso/LCP	Yes	No	Garcia KC	10.1126/SCIENCE.AAA5026	2015-03-04	Yes
+A (Rhodopsin)	strain AD169	4XT1	4XT1_refined	2.9	A	Active	9.02	-	-	-	Nanobody	CX3CL1
+peptide	CX3CL1
+Agonist
+peptide
+in meso/LCP	Yes	No	Garcia KC	10.1126/SCIENCE.AAA5026	2015-03-04	Yes
+A (Rhodopsin)	Human	4RWS	4RWS_refined	3.1	A	Inactive	-0.91	-	-	T4-Lysozyme	-	CXCL12α
+CXCL12β
+peptide	vMIP-II
+Antagonist
+peptide
+in meso/LCP	Yes	No	Handel TM	10.1126/SCIENCE.1261064	2015-02-11	Yes
+A (Rhodopsin)	Human	4RWA	-	3.3	A,B	Inactive	-1.20	-	-	BRIL	-	β-endorphin
+dynorphin A
+dynorphin B
+endomorphin-1
+[Leu]enkephalin
+[Met]enkephalin
+peptide	DIPP-NH2
+Antagonist
+peptide-like
+in meso/LCP	Yes	No	Cherezov V	10.1038/NSMB.2965	2015-01-14	No
+A (Rhodopsin)	Human	4RWD	4RWD_refined	2.7	A,B	Inactive	-0.83	-	-	BRIL	-	β-endorphin
+dynorphin A
+dynorphin B
+endomorphin-1
+[Leu]enkephalin
+[Met]enkephalin
+peptide	DIPP-NH2
+Antagonist
+peptide-like
+in meso/LCP	Yes	Yes	Cherezov V	10.1038/NSMB.2965	2015-01-14	Yes
+A (Rhodopsin)	Human	4S0V	4S0V_refined	2.5	A	Inactive	-1.02	-	-	Glycogen synthase	-	-		Suvorexant pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Rosenbaum DM	10.1038/NATURE14035	2015-01-14	Yes
+A (Rhodopsin)	Rat	4U14	-	3.6	A	Inactive	0.52	-	-	T4-Lysozyme	-	acetylcholine
+small molecule	Tiotropium pubchem
+Antagonist
+small molecule
+sponge mesophase	Yes	No	Kobilka BK	10.1016/J.STR.2014.08.022	2014-11-26	No
+A (Rhodopsin)	Rat	4U15	4U15_refined	2.8	B	Inactive	0.50	-	-	T4-Lysozyme	-	acetylcholine
+small molecule	Tiotropium pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Kobilka BK	10.1016/J.STR.2014.08.022	2014-11-26	Yes
+A (Rhodopsin)	Rat	4U16	4U16_refined	3.7	B	Inactive	0.20	-	-	T4-Lysozyme	-	acetylcholine
+small molecule	methscopolamine pubchem
+Antagonist
+small molecule
+sponge mesophase	Yes	No	Kobilka BK	10.1016/J.STR.2014.08.022	2014-11-26	Yes
+A (Rhodopsin)	Bovine	4PXF	-	2.8	A	Active	8.58	-	Arrestin fragment	-	-	retinal
+small molecule	N/A	N/A	N/A	vapour diffusion	No	No	Scheerer P	10.1038/NCOMMS5801	2014-09-17	No
+A (Rhodopsin)	Human	4QKX	4QKX_refined	3.3	A	Active	9.44	-	-	T4-Lysozyme	Nanobody	(-)-adrenaline
+(-)-noradrenaline
+small molecule	35V pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	No	Gmeiner P	10.1073/PNAS.1410415111	2014-07-23	Yes
+F (Frizzled)	Human	4QIM	4QIM_refined	2.6	A	Inactive	-2.23	-	-	BRIL	-	constitutive
+Constitutive	AntaXV pubchem
+Antagonist
+small molecule
+in meso/LCP	No	No	Stevens RC	10.1038/NCOMMS5355	2014-07-23	Yes
+F (Frizzled)	Human	4QIN	4QIN_refined	2.6	A	Inactive	-2.38	-	-	BRIL	-	constitutive
+Constitutive	SAG1.5
+Agonist
+small molecule
+in meso/LCP	No	No	Stevens RC	10.1038/NCOMMS5355	2014-07-23	Yes
+A (Rhodopsin)	Human	4PHU	4PHU_refined	2.3	A	Intermediate	3.58	-	-	T4-Lysozyme	-	long chain carboxylic acids
+Lipid	TAK-875 pubchem
+Agonist
+small molecule
+in meso/LCP	No	No	Okada K	10.1038/NATURE13494	2014-07-16	Yes
+C (Glutamate)	Human	4OO9	4OO9_refined	2.6	A	Inactive	3.98	-	-	T4-Lysozyme	-	L-glutamic acid
+small molecule	Mavoglurant pubchem
+NAM
+small molecule
+in meso/LCP	No	No	Marshall FH	10.1038/NATURE13396	2014-07-02	Yes
+A (Rhodopsin)	Human	4PXZ	-	2.5	A	Intermediate	3.91	-	-	BRIL	-	-		2-MeSADP pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	No	Zhao Q	10.1038/NATURE13288	2014-04-30	Yes
+A (Rhodopsin)	Human	4PY0	4PY0_refined	3.1	A	Intermediate	3.81	-	-	BRIL	-	-		2-Mesatp pubchem
+Agonist (partial)
+small molecule
+in meso/LCP	Yes	No	Zhao Q	10.1038/NATURE13288	2014-04-30	Yes
+A (Rhodopsin)	Common turkey	4BVN	4BVN_refined	2.1	A	Inactive	-2.09	-	-	-	-	-		(S)-Cyanopindolol pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	Yes	Tate CG	10.1371/JOURNAL.PONE.0092727	2014-04-02	Yes
+A (Rhodopsin)	Human	4NTJ	4NTJ_refined	2.6	A	Intermediate	4.74	-	-	BRIL	-	-		AZD1283 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Zhao Q	10.1038/NATURE13083	2014-03-26	Yes
+C (Glutamate)	Human	4OR2	4OR2_refined	2.8	A,B	Inactive	4.00	-	-	BRIL	-	L-glutamic acid
+small molecule	FITM pubchem
+NAM
+small molecule
+in meso/LCP	No	No	Stevens RC	10.1126/SCIENCE.1249489	2014-03-19	Yes
+F (Frizzled)	Human	4O9R	4O9R_refined	3.2	A	Inactive	-2.77	-	-	BRIL	-	constitutive
+Constitutive	Cyclopamine pubchem
+Antagonist
+small molecule
+in meso/LCP	No	No	Cherezov V	10.1038/NCOMMS4309	2014-03-05	Yes
+A (Rhodopsin)	Rat	4BWB	-	3.6	A	Inactive	1.53	-	-	-	-	neurotensin
+peptide	CHEMBL342252 pubchem
+Agonist
+peptide
+vapour diffusion	Yes	No	Plückthun A	10.1073/PNAS.1317903111	2014-01-29	No
+A (Rhodopsin)	Rat	4BUO	-	2.8	A	Inactive	0.57	-	-	-	-	neurotensin
+peptide	CHEMBL342252 pubchem
+Agonist
+peptide
+vapour diffusion	Yes	No	Plückthun A	10.1073/PNAS.1317903111	2014-01-29	Yes
+A (Rhodopsin)	Rat	3ZEV	-	3.0	A	Inactive	0.45	-	-	-	-	neurotensin
+peptide	CHEMBL342252 pubchem
+Agonist
+peptide
+vapour diffusion	Yes	No	Plückthun A	10.1073/PNAS.1317903111	2014-01-29	No
+A (Rhodopsin)	Rat	4BV0	-	3.1	A	Inactive	0.95	-	-	-	-	neurotensin
+peptide	CHEMBL342252 pubchem
+Agonist
+peptide
+vapour diffusion	Yes	No	Plückthun A	10.1073/PNAS.1317903111	2014-01-29	No
+F (Frizzled)	Human	4N4W	4N4W_refined	2.8	A	Inactive	-1.76	-	-	BRIL	-	constitutive
+Constitutive	SANT-1 pubchem
+Antagonist
+small molecule
+in meso/LCP	No	No	Stevens RC	10.1038/NCOMMS5355	2014-01-22	Yes
+A (Rhodopsin)	Human	4N6H	4N6H_refined	1.8	A	Inactive	-1.54	-	-	BRIL	-	β-endorphin
+dynorphin A
+dynorphin B
+endomorphin-1
+[Leu]enkephalin
+[Met]enkephalin
+peptide	Naltrindole pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	Yes	Stevens RC	10.1038/NATURE12944	2013-12-25	Yes
+A (Rhodopsin)	Human	4NC3	4NC3_refined	2.8	A	Intermediate	3.09	-	-	BRIL	-	5-hydroxytryptamine
+small molecule	ERGOTAMINE pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	No	Cherezov V	10.1126/SCIENCE.1244142	2013-12-18	Yes
+A (Rhodopsin)	Human	4MQT	4MQT_refined	3.7	A	Active	8.74	-	-	-	Nanobody	acetylcholine
+small molecule	LY2119620 pubchem
+iperoxo pubchem
+PAM
+Agonist
+small molecule
+small molecule
+in meso/LCP	Yes	No	Kobilka BK	10.1038/NATURE12735	2013-11-27	Yes
+A (Rhodopsin)	Human	4MQS	4MQS_refined	3.5	A	Active	9.14	-	-	-	Nanobody	acetylcholine
+small molecule	iperoxo pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	No	Kobilka BK	10.1038/NATURE12735	2013-11-27	Yes
+A (Rhodopsin)	Bovine	4J4Q	4J4Q_refined	2.7	A	Active	8.54	Gt	-	-	-	retinal
+small molecule	N/A	N/A	N/A	vapour diffusion	No	No	Ernst OP	10.1002/ANIE.201302374	2013-10-30	Yes
+A (Rhodopsin)	Human	4LDL	-	3.1	A	Active	9.26	-	-	T4-Lysozyme	Nanobody	(-)-adrenaline
+(-)-noradrenaline
+small molecule	hydroxybenzylisoprot... pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	No	Kobilka BK	10.1038/NATURE12572	2013-09-25	Yes
+A (Rhodopsin)	Human	4LDE	4LDE_refined	2.8	A	Active	9.40	-	-	T4-Lysozyme	Nanobody	(-)-adrenaline
+(-)-noradrenaline
+small molecule	BI167107 pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	No	Kobilka BK	10.1038/NATURE12572	2013-09-25	Yes
+A (Rhodopsin)	Human	4LDO	4LDO_refined	3.2	A	Active	9.16	-	-	T4-Lysozyme	Nanobody	(-)-adrenaline
+(-)-noradrenaline
+small molecule	epinephrine pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	No	Kobilka BK	10.1038/NATURE12572	2013-09-25	Yes
+A (Rhodopsin)	Human	4MBS	4MBS_refined	2.7	A	Inactive	0.46	-	-	Rubredoxin	-	CCL11
+CCL14
+CCL16
+CCL2
+CCL3
+CCL4
+CCL5
+CCL7
+CCL8
+peptide	Maraviroc pubchem
+Antagonist
+small molecule
+in meso/LCP	No	No	Wu B	10.1126/SCIENCE.1241475	2013-09-11	Yes
+B1 (Secretin)	Human	4L6R	4L6R_refined	3.3	A	Inactive	-4.62	-	-	BRIL	-	-		N/A	N/A	N/A	in meso/LCP	No	No	Stevens RC	10.1038/NATURE12393	2013-07-24	Yes
+B1 (Secretin)	Human	4K5Y	4K5Y_refined	3.0	C	Inactive	-2.02	-	-	T4-Lysozyme	-	corticotrophin-releasing hormone
+peptide	CP-376395 pubchem
+Antagonist
+small molecule
+in meso/LCP	No	No	Marshall FH	10.1038/NATURE12357	2013-07-17	Yes
+A (Rhodopsin)	Bovine	4BEY	-	2.9	A	Active	8.38	Gt	-	-	-	retinal
+small molecule	N/A	N/A	N/A	vapour diffusion	No	No	Standfuss J	10.1038/EMBOR.2013.44	2013-05-08	No
+A (Rhodopsin)	Bovine	4BEZ	-	3.3	A	Active	8.33	-	-	-	-	retinal
+small molecule	N/A	N/A	N/A	vapour diffusion	No	No	Standfuss J	10.1038/EMBOR.2013.44	2013-04-24	No
+F (Frizzled)	Human	4JKV	4JKV_refined	2.5	A	Inactive	-2.20	-	-	BRIL	-	constitutive
+Constitutive	LY2940680 pubchem
+Antagonist
+small molecule
+in meso/LCP	No	No	Stevens RC	10.1038/NATURE12167	2013-04-24	Yes
+A (Rhodopsin)	Common turkey	3ZPR	3ZPR_refined	2.7	B	Inactive	-1.11	-	-	-	-	-		4-methyl-2-(piperazi... pubchem
+Antagonist
+small molecule
+vapour diffusion	Yes	Yes	Congreve M	10.1021/JM400140Q	2013-04-03	Yes
+A (Rhodopsin)	Common turkey	3ZPQ	3ZPQ_refined	2.8	B	Inactive	-1.18	-	-	-	-	-		4-(1-Piperazinyl)-1H... pubchem
+Antagonist
+small molecule
+vapour diffusion	Yes	Yes	Congreve M	10.1021/JM400140Q	2013-04-03	Yes
+A (Rhodopsin)	Human	4IAQ	4IAQ_refined	2.8	A	Intermediate	2.79	-	-	BRIL	-	-		dihydroergotamine pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	No		10.1126/SCIENCE.1232807	2013-03-13	Yes
+A (Rhodopsin)	Human	4IAR	4IAR_refined	2.7	A	Intermediate	4.22	-	-	BRIL	-	-		ERGOTAMINE pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	No		10.1126/SCIENCE.1232807	2013-03-13	Yes
+A (Rhodopsin)	Human	4IB4	4IB4_refined	2.7	A	Intermediate	3.08	-	-	BRIL	-	5-hydroxytryptamine
+small molecule	ERGOTAMINE pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	No		10.1126/SCIENCE.1232808	2013-03-13	Yes
+A (Rhodopsin)	Common turkey	4GPO	4GPO_refined	3.5	A,B	Inactive	-1.36	-	-	-	-	-		N/A	N/A	N/A	vapour diffusion	Yes	No	Huang X	10.1038/NSMB.2504	2013-02-27	Yes
+A (Rhodopsin)	Human	3VW7	3VW7_refined	2.2	A	Intermediate	6.18	-	-	T4-Lysozyme	-	thrombin
+peptide	Vorapaxar pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Kobilka BK	10.1038/NATURE11701	2012-12-12	Yes
+A (Rhodopsin)	Human	4GBR	4GBR_refined	4.0	A	Inactive	-0.55	-	-	T4-Lysozyme	-	(-)-adrenaline
+(-)-noradrenaline
+small molecule	(S)-Carazolol pubchem
+Inverse agonist (partial)
+small molecule
+in meso/LCP	Yes	No	Kobilka BK	10.1371/JOURNAL.PONE.0046039	2012-10-24	Yes
+A (Rhodopsin)	Rat	4GRV	4GRV_refined	2.8	A	Intermediate	7.34	-	-	T4-Lysozyme	-	neurotensin
+peptide	Neurotensin(8-13) pubchem
+Agonist
+peptide
+in meso/LCP	Yes	No	Grisshammer R	10.1038/NATURE11558	2012-10-17	Yes
+A (Rhodopsin)	Human	4EIY	4EIY_refined	1.8	A	Inactive	-0.55	-	-	BRIL	-	-		ZM241385 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	Yes	Stevens RC	10.1126/SCIENCE.1219218	2012-07-25	Yes
+A (Rhodopsin)	Common turkey	4AMI	-	3.2	A	Inactive	-1.16	-	-	-	-	-		bucindolol pubchem
+Agonist
+small molecule
+vapour diffusion	Yes	No	Tate CG	10.1016/J.STR.2012.03.014	2012-05-23	Yes
+A (Rhodopsin)	Common turkey	4AMJ	-	2.3	B	Inactive	-1.01	-	-	-	-	-		(S)-Carvedilol pubchem
+Inverse agonist
+small molecule
+vapour diffusion	Yes	No	Tate CG	10.1016/J.STR.2012.03.014	2012-05-23	Yes
+A (Rhodopsin)	Mouse	4EJ4	4EJ4_refined	3.4	A	Inactive	-1.23	-	-	T4-Lysozyme	-	β-endorphin
+dynorphin A
+dynorphin B
+endomorphin-1
+[Leu]enkephalin
+[Met]enkephalin
+peptide	Naltrindole pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Kobilka BK	10.1038/NATURE11111	2012-05-16	Yes
+A (Rhodopsin)	Human	4EA3	4EA3_refined	3.0	A	Inactive	-1.21	-	-	BRIL	-	nociceptin/orphanin FQ
+peptide	C-24 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Stevens RC	10.1038/NATURE11085	2012-04-25	Yes
+A (Rhodopsin)	Human	3UZC	-	3.3	A	Inactive	-0.50	-	-	-	-	-		T4E
+Antagonist
+small molecule
+vapour diffusion	Yes	No	Marshall FH	10.1021/JM201376W	2012-03-21	Yes
+A (Rhodopsin)	Human	3UZA	-	3.3	A	Inactive	-0.56	-	-	-	-	-		CHEMBL2024115 pubchem
+Antagonist
+small molecule
+vapour diffusion	Yes	No	Marshall FH	10.1021/JM201376W	2012-03-21	Yes
+A (Rhodopsin)	Human	4DJH	4DJH_refined	2.9	A	Inactive	-1.29	-	-	T4-Lysozyme	-	dynorphin A
+peptide	JDTic pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Stevens RC	10.1038/NATURE10939	2012-03-21	Yes
+A (Rhodopsin)	Mouse	4DKL	4DKL_refined	2.8	A	Inactive	-1.44	-	-	T4-Lysozyme	-	β-endorphin
+dynorphin A
+dynorphin B
+endomorphin-1
+[Leu]enkephalin
+[Met]enkephalin
+peptide	BF0
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Granier S	10.1038/NATURE10954	2012-03-21	Yes
+A (Rhodopsin)	Rat	4DAJ	-	3.4	A	Inactive	0.22	-	-	T4-Lysozyme	-	acetylcholine
+small molecule	Tiotropium pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Kobilka BK	10.1038/NATURE10867	2012-02-22	No
+A (Rhodopsin)	Human	3V2Y	3V2Y_refined	2.8	A	Inactive	-0.61	-	-	T4-Lysozyme	-	sphingosine 1-phosphate
+Lipid	W146 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Stevens RC	10.1126/SCIENCE.1215904	2012-02-15	Yes
+A (Rhodopsin)	Human	3V2W	-	3.4	A	Inactive	-1.48	-	-	T4-Lysozyme	-	sphingosine 1-phosphate
+Lipid	W146 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Stevens RC	10.1126/SCIENCE.1215904	2012-02-15	No
+A (Rhodopsin)	Human	3VGA	-	3.1	A	Inactive	-1.40	-	-	-	-	-		ZM241385 pubchem
+Antagonist
+small molecule
+vapour diffusion	Yes	No	Murata T	10.1038/NATURE10750	2012-02-01	No
+A (Rhodopsin)	Human	3VG9	3VG9_refined	2.7	A	Inactive	-1.20	-	-	-	-	-		ZM241385 pubchem
+Antagonist
+small molecule
+vapour diffusion	Yes	No	Murata T	10.1038/NATURE10750	2012-02-01	Yes
+A (Rhodopsin)	Human	3UON	3UON_refined	3.0	A	Inactive	-1.50	-	-	T4-Lysozyme	-	acetylcholine
+small molecule	62869-69-6 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No		10.1038/NATURE10753	2012-02-01	Yes
+A (Rhodopsin)	Bovine	4A4M	4A4M_refined	3.3	A	Active	8.20	Gt-alpha3	-	-	-	retinal
+small molecule	retinal gtoplig
+Agonist
+small molecule
+vapour diffusion	No	No	Standfuss J	10.1073/PNAS.1114089108	2012-01-25	Yes
+A (Rhodopsin)	Human	3RFM	-	3.6	A	Inactive	-0.48	-	-	-	-	-		caffeine pubchem
+Antagonist
+small molecule
+vapour diffusion	Yes	No	Marshall FH	10.1016/J.STR.2011.06.014	2011-09-07	Yes
+A (Rhodopsin)	Human	3REY	3REY_refined	3.3	A	Inactive	-0.38	-	-	-	-	-		Xanthine amine conge... pubchem
+Antagonist
+small molecule
+vapour diffusion	Yes	No	Marshall FH	10.1016/J.STR.2011.06.014	2011-09-07	Yes
+A (Rhodopsin)	Human	3PWH	-	3.3	A	Inactive	-0.67	-	-	-	-	-		ZM241385 pubchem
+Antagonist
+small molecule
+vapour diffusion	Yes	No	Marshall FH	10.1016/J.STR.2011.06.014	2011-09-07	No
+A (Rhodopsin)	Japanese flying squid	3AYM	-	2.8	A,B	Inactive	-0.22	-	-	-	-	retinal
+small molecule	retinal gtoplig
+Agonist
+small molecule
+vapour diffusion	Yes	No	Kouyama T	10.1016/J.JMB.2011.08.044	2011-08-17	No
+A (Rhodopsin)	Japanese flying squid	3AYN	-	2.7	A,B	Inactive	-0.22	-	-	-	-	retinal
+small molecule	retinal gtoplig
+Inverse agonist
+small molecule
+vapour diffusion	Yes	No	Kouyama T	10.1016/J.JMB.2011.08.044	2011-08-17	No
+A (Rhodopsin)	Human	3SN6	3SN6_refined	3.2	R	Active	9.96	Gs	-	T4-Lysozyme	Antibody	(-)-adrenaline
+(-)-noradrenaline
+small molecule	BI-167107 pubchem
+Agonist
+small molecule
+sponge mesophase	Yes	No	Kobilka BK	10.1038/NATURE10361	2011-07-20	Yes
+A (Rhodopsin)	Human	3RZE	3RZE_refined	3.1	A	Inactive	0.45	-	-	T4-Lysozyme	-	histamine
+small molecule	doxepin pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Iwata S	10.1038/NATURE10236	2011-06-15	Yes
+A (Rhodopsin)	Common turkey	2YCY	-	3.2	A	Inactive	-1.62	-	-	-	-	-		(S)-Cyanopindolol pubchem
+Antagonist
+small molecule
+vapour diffusion	Yes	No	Schertler GFX	10.1073/PNAS.1100185108	2011-06-08	No
+A (Rhodopsin)	Common turkey	2YCX	-	3.3	A	Inactive	-1.64	-	-	-	-	-		(S)-Cyanopindolol pubchem
+Antagonist
+small molecule
+vapour diffusion	Yes	No	Schertler GFX	10.1073/PNAS.1100185108	2011-06-01	No
+A (Rhodopsin)	Common turkey	2YCZ	-	3.7	B	Inactive	-1.72	-	-	-	-	-		timolol pubchem
+Antagonist
+small molecule
+vapour diffusion	Yes	No	Schertler GFX	10.1073/PNAS.1100185108	2011-06-01	Yes
+A (Rhodopsin)	Common turkey	2YCW	2YCW_refined	3.0	A	Inactive	-1.08	-	-	-	-	-		timolol pubchem
+Inverse agonist
+small molecule
+vapour diffusion	Yes	No	Schertler GFX	10.1073/PNAS.1100185108	2011-06-01	Yes
+A (Rhodopsin)	Human	2YDV	2YDV_refined	2.6	A	Intermediate	6.21	-	-	-	-	-		NECA pubchem
+Agonist
+small molecule
+vapour diffusion	Yes	No	Tate CG	10.1038/NATURE10136	2011-05-18	Yes
+A (Rhodopsin)	Human	2YDO	2YDO_refined	3.0	A	Intermediate	6.28	-	-	-	-	-		adenosine pubchem
+Agonist
+small molecule
+vapour diffusion	Yes	No	Tate CG	10.1038/NATURE10136	2011-05-18	Yes
+A (Rhodopsin)	Common turkey	2Y01	-	2.6	A	Inactive	-1.07	-	-	-	-	-		Dobutamine pubchem
+Agonist (partial)
+small molecule
+vapour diffusion	Yes	No	Tate CG	10.1038/NATURE09746	2011-03-30	No
+A (Rhodopsin)	Bovine	2X72	2X72_refined	3.0	A	Active	8.34	Gt	-	-	-	retinal
+small molecule	retinal gtoplig
+Agonist
+small molecule
+vapour diffusion	No	No	Schertler GFX	10.1038/NATURE09795	2011-03-16	Yes
+A (Rhodopsin)	Human	3QAK	-	2.7	A	Intermediate	6.12	-	-	T4-Lysozyme	-	-		UK-432097 pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	No	Stevens RC	10.1126/SCIENCE.1202793	2011-03-09	Yes
+A (Rhodopsin)	Bovine	3PXO	-	3.0	A	Active	7.94	-	-	-	-	retinal
+small molecule	retinal gtoplig
+Agonist
+small molecule
+vapour diffusion	No	No	Ernst OP	10.1038/NATURE09789	2011-03-09	No
+A (Rhodopsin)	Bovine	3PQR	3PQR_refined	2.9	A	Active	8.57	Gt	-	-	-	retinal
+small molecule	retinal gtoplig
+Agonist
+small molecule
+vapour diffusion	No	No	Ernst OP	10.1038/NATURE09789	2011-03-09	Yes
+A (Rhodopsin)	Human	3P0G	3P0G_refined	3.5	A	Active	9.03	-	-	T4-Lysozyme	Nanobody	(-)-adrenaline
+(-)-noradrenaline
+small molecule	BI-167107 pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	No	Kobilka BK	10.1038/NATURE09648	2011-01-19	Yes
+A (Rhodopsin)	Bovine	3OAX	-	2.6	A	Inactive	0.02	-	-	-	-	retinal
+small molecule	retinal gtoplig
+Inverse agonist
+small molecule
+vapour diffusion	No	No	Okada T	10.1016/J.BPJ.2010.08.003	2011-01-19	No
+A (Rhodopsin)	Common turkey	2Y02	-	2.6	B	Inactive	-1.15	-	-	-	-	-		Carmoterol pubchem
+Agonist
+small molecule
+vapour diffusion	Yes	No	Tate CG	10.1038/NATURE09746	2011-01-12	Yes
+A (Rhodopsin)	Common turkey	2Y00	2Y00_refined	2.5	B	Inactive	-1.22	-	-	-	-	-		Dobutamine pubchem
+Agonist (partial)
+small molecule
+vapour diffusion	Yes	No	Tate CG	10.1038/NATURE09746	2011-01-12	Yes
+A (Rhodopsin)	Common turkey	2Y03	2Y03_refined	2.9	B	Inactive	-1.20	-	-	-	-	-		LEVISOPRENALINE pubchem
+Agonist
+small molecule
+vapour diffusion	Yes	No	Tate CG	10.1038/NATURE09746	2011-01-12	Yes
+A (Rhodopsin)	Common turkey	2Y04	2Y04_refined	3.1	B	Inactive	-1.14	-	-	-	-	-		Levalbuterol pubchem
+Agonist (partial)
+small molecule
+vapour diffusion	Yes	No	Tate CG	10.1038/NATURE09746	2011-01-12	Yes
+A (Rhodopsin)	Human	3PDS	3PDS_refined	3.5	A	Inactive	-0.96	-	-	T4-Lysozyme	-	(-)-adrenaline
+(-)-noradrenaline
+small molecule	FAUC50 pubchem
+Agonist
+small molecule
+in meso/LCP	Yes	No	Kobilka BK	10.1038/NATURE09665	2011-01-12	Yes
+A (Rhodopsin)	Human	3PBL	3PBL_refined	2.9	A	Inactive	-0.43	-	-	T4-Lysozyme	-	dopamine
+small molecule	Eticlopride pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Stevens RC	10.1126/SCIENCE.1197410	2010-11-03	Yes
+A (Rhodopsin)	Human	3ODU	3ODU_refined	2.5	A	Inactive	-1.34	-	-	T4-Lysozyme	-	CXCL12α
+CXCL12β
+peptide	IT1t pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Stevens RC	10.1126/SCIENCE.1194396	2010-10-27	Yes
+A (Rhodopsin)	Human	3OE9	-	3.1	A	Inactive	-0.65	-	-	T4-Lysozyme	-	CXCL12α
+CXCL12β
+peptide	IT1t pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Stevens RC	10.1126/SCIENCE.1194396	2010-10-27	No
+A (Rhodopsin)	Human	3OE8	-	3.1	A	Inactive	-1.28	-	-	T4-Lysozyme	-	CXCL12α
+CXCL12β
+peptide	IT1t pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Stevens RC	10.1126/SCIENCE.1194396	2010-10-27	No
+A (Rhodopsin)	Human	3OE6	-	3.2	A	Inactive	-1.33	-	-	T4-Lysozyme	-	CXCL12α
+CXCL12β
+peptide	IT1t pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Stevens RC	10.1126/SCIENCE.1194396	2010-10-27	No
+A (Rhodopsin)	Human	3OE0	3OE0_refined	2.9	A	Inactive	-1.45	-	-	T4-Lysozyme	-	CXCL12α
+CXCL12β
+peptide	CVX15
+Antagonist
+peptide
+in meso/LCP	Yes	No	Stevens RC	10.1126/SCIENCE.1194396	2010-10-27	Yes
+A (Rhodopsin)	Human	3NY8	3NY8_refined	2.8	A	Inactive	-1.26	-	-	T4-Lysozyme	-	(-)-adrenaline
+(-)-noradrenaline
+small molecule	AC1NSK5N pubchem
+Inverse agonist
+small molecule
+in meso/LCP	Yes	No	Stevens RC	10.1021/JA105108Q	2010-08-11	Yes
+A (Rhodopsin)	Human	3NY9	-	2.8	A	Inactive	-1.49	-	-	T4-Lysozyme	-	(-)-adrenaline
+(-)-noradrenaline
+small molecule	CHEMBL1233771 pubchem
+Inverse agonist
+small molecule
+in meso/LCP	Yes	No	Stevens RC	10.1021/JA105108Q	2010-08-11	Yes
+A (Rhodopsin)	Human	3NYA	-	3.2	A	Inactive	-1.28	-	-	T4-Lysozyme	-	(-)-adrenaline
+(-)-noradrenaline
+small molecule	(-)-Alprenolol pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Stevens RC	10.1021/JA105108Q	2010-08-11	Yes
+A (Rhodopsin)	Human	3KJ6	-	3.4	A	Inactive	-2.18	-	-	-	Antibody	(-)-adrenaline
+(-)-noradrenaline
+small molecule	N/A	N/A	N/A	vapour diffusion	Yes	No	Kobilka BK	10.1038/NATURE08650	2010-02-16	No
+A (Rhodopsin)	Human	3EML	-	2.6	A	Inactive	-1.16	-	-	T4-Lysozyme	-	-		ZM241385 pubchem
+Antagonist
+small molecule
+in meso/LCP	Yes	No	Stevens RC	10.1126/SCIENCE.1164772	2008-10-14	No
+A (Rhodopsin)	Bovine	3DQB	3DQB_refined	3.2	A	Active	8.59	Gt	-	-	-	retinal
+small molecule	N/A	N/A	N/A	vapour diffusion	No	No	Ernst OP	10.1038/NATURE07330	2008-09-23	Yes
+A (Rhodopsin)	Bovine	3C9M	-	3.4	A	Inactive	-0.20	-	-	-	-	retinal
+small molecule	retinal gtoplig
+Inverse agonist
+small molecule
+NA	No	No	Stenkamp RE	10.1107/S0907444908017162	2008-08-05	No
+A (Rhodopsin)	Bovine	3C9L	-	2.7	A	Inactive	0.09	-	-	-	-	retinal
+small molecule	retinal gtoplig
+Inverse agonist
+small molecule
+NA	No	No	Stenkamp RE	10.1107/S0907444908017162	2008-08-05	No
+A (Rhodopsin)	Common turkey	2VT4	-	2.7	B	Inactive	-1.55	-	-	-	-	-		(S)-Cyanopindolol pubchem
+Antagonist
+small molecule
+vapour diffusion	Yes	No	Schertler GFX	10.1038/NATURE07101	2008-06-24	No
+A (Rhodopsin)	Bovine	3CAP	-	2.9	A	Active	7.91	-	-	-	-	retinal
+small molecule	N/A	N/A	N/A	vapour diffusion	No	No	Ernst OP	10.1038/NATURE07063	2008-06-24	No
+A (Rhodopsin)	Human	3D4S	3D4S_refined	2.8	A	Inactive	-1.53	-	-	T4-Lysozyme	-	(-)-adrenaline
+(-)-noradrenaline
+small molecule	timolol pubchem
+Inverse agonist
+small molecule
+in meso/LCP	Yes	No	Stevens RC	10.1016/J.STR.2008.05.001	2008-06-17	Yes
+A (Rhodopsin)	Japanese flying squid	2Z73	2Z73_refined	2.5	A	Inactive	-0.27	-	-	-	-	retinal
+small molecule	retinal gtoplig
+Inverse agonist
+small molecule
+vapour diffusion	Yes	No	Kouyama T	10.1038/NATURE06925	2008-05-13	Yes
+A (Rhodopsin)	Japanese flying squid	2ZIY	-	3.7	A	Inactive	-0.28	-	-	-	-	retinal
+small molecule	retinal gtoplig
+Inverse agonist
+small molecule
+vapour diffusion	Yes	No	Miyano M	10.1074/JBC.C800040200	2008-05-06	No
+A (Rhodopsin)	Human	2R4S	-	3.4	A	Inactive	-2.89	-	-	-	Antibody	(-)-adrenaline
+(-)-noradrenaline
+small molecule	N/A	N/A	N/A	vapour diffusion	Yes	No	Kobilka BK	10.1038/NATURE06325	2007-11-06	No
+A (Rhodopsin)	Human	2R4R	-	3.4	A	Inactive	-2.80	-	-	-	Antibody	(-)-adrenaline
+(-)-noradrenaline
+small molecule	N/A	N/A	N/A	vapour diffusion	Yes	No	Kobilka BK	10.1038/NATURE06325	2007-11-06	No
+A (Rhodopsin)	Human	2RH1	2RH1_refined	2.4	A	Inactive	-0.82	-	-	T4-Lysozyme	-	(-)-adrenaline
+(-)-noradrenaline
+small molecule	Carazolol pubchem
+Inverse agonist
+small molecule
+in meso/LCP	Yes	No	Stevens RC	10.1126/SCIENCE.1150577	2007-10-30	Yes
+A (Rhodopsin)	Bovine	2PED	-	3.0	A,B	Inactive	0.24	-	-	-	-	retinal
+small molecule	retinal gtoplig
+Inverse agonist
+small molecule
+vapour diffusion	No	No	Okada T	10.1529/BIOPHYSJ.107.108225	2007-10-30	No
+A (Rhodopsin)	Bovine	2J4Y	-	3.4	A,B	Inactive	-0.41	-	-	-	-	retinal
+small molecule	retinal gtoplig
+Inverse agonist
+small molecule
+vapour diffusion	No	No	Schertler GF	10.1016/J.JMB.2007.03.007	2007-09-25	No
+A (Rhodopsin)	Bovine	2I35	-	3.8	A	Inactive	-0.33	-	-	-	-	retinal
+small molecule	retinal gtoplig
+Inverse agonist
+small molecule
+vapour diffusion	No	No	Palczewski K	10.1073/PNAS.0608022103	2006-10-17	No
+A (Rhodopsin)	Bovine	2I37	-	4.2	A	Inactive	-1.63	-	-	-	-	retinal
+small molecule	N/A	N/A	N/A	vapour diffusion	No	No	Palczewski K	10.1073/PNAS.0608022103	2006-10-17	No
+A (Rhodopsin)	Bovine	2I36	-	4.1	A,B,C	Inactive	-0.36	-	-	-	-	retinal
+small molecule	N/A	N/A	N/A	vapour diffusion	No	No	Palczewski K	10.1073/PNAS.0608022103	2006-10-17	No
+A (Rhodopsin)	Bovine	2G87	-	2.6	A,B	Inactive	-0.18	-	-	-	-	retinal
+small molecule	retinal gtoplig
+Agonist
+small molecule
+vapour diffusion	No	No	Okada T	10.1002/ANIE.200600595	2006-09-02	No
+A (Rhodopsin)	Bovine	2HPY	-	2.8	A,B	Inactive	0.33	-	-	-	-	retinal
+small molecule	retinal gtoplig
+Agonist
+small molecule
+vapour diffusion	No	No	Okada T	10.1073/PNAS.0601765103	2006-08-22	No
+A (Rhodopsin)	Bovine	1U19	1U19_refined	2.2	A	Inactive	-0.23	-	-	-	-	retinal
+small molecule	retinal gtoplig
+Inverse agonist
+small molecule
+vapour diffusion	No	No	Buss V	10.1016/J.JMB.2004.07.044	2004-10-12	Yes
+A (Rhodopsin)	Bovine	1GZM	-	2.7	A	Inactive	0.06	-	-	-	-	retinal
+small molecule	retinal gtoplig
+Inverse agonist
+small molecule
+vapour diffusion	No	No	Schertler GF	10.1016/J.JMB.2004.08.090	2003-11-20	Yes
+A (Rhodopsin)	Bovine	1L9H	-	2.6	A	Inactive	-0.45	-	-	-	-	retinal
+small molecule	retinal gtoplig
+Inverse agonist
+small molecule
+vapour diffusion	No	No	Shichida Y	10.1073/PNAS.082666399	2002-05-15	No
+A (Rhodopsin)	Bovine	1HZX	-	2.8	A,B	Inactive	-0.02	-	-	-	-	retinal
+small molecule	retinal gtoplig
+Inverse agonist
+small molecule
+vapour diffusion	No	No	Stenkamp RE	10.1021/BI0155091	2001-07-04	No
+A (Rhodopsin)	Bovine	1F88	-	2.8	A,B	Inactive	-0.50	-	-	-	-
