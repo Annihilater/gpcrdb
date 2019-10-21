@@ -31,4 +31,5 @@
 
 
 
-另外`requests`模拟请求的代码在 `test/requests_code`里。
+另外`requests`模拟请求的代码在 [gpcrdb/test/requests_code.py](https://github.com/Annihilater/gpcrdb/blob/master/test/requests_code.py) 里。
+
