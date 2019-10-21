@@ -26,3 +26,5 @@
     
 
     
+
+> 意外：找到了 gpcrdb 的接口 https://gpcrdb.org/services/reference/
